@@ -26,6 +26,8 @@ Below is a list of included ammo:
 
 9x21mm 7N49 UZ Zubilo - 50 dam - 43 pen - its a 7N42 with more powder. Higher heat and durability burn, so will wreck SMGs; but the Shrimp eats with it. Wanted this round to make the 5-7 maybe, possibly, not the default pistol.
 
+9x21mm FR gzh: A leg meta special feature. High flesh damage, virtually no pen. However, the extra powder needed to propel the bullet fasted for more hydrostatic shock means more heat. A good bit more.
+
 .366 TKM AP-ME - 86 dam - 46 pen - Take AP-M, swap SP-6 for BP GS projectile, remove some powder. Basically I wanted this to function as a less troublesome AP-M by removing much of the bogus de-buffs to accuracy recoil. .366 is already such a niche caliber, it did not need all that. The durability burn and heat still limit its “spamability.” That and the price. This should make it useful for either the 209 or bolty in .366.
 
 .50 BMG Frangible HP - 325 dam - 27 pen - Now we are getting into the fun cartridges. This is a dup of a commercially available frangible .50 bmg round. It dumps ALL its energy inside a single 16 inch gelatin block. Its silly for flesh damage. Has a super high bleed chance, and even has fun sound effects and concussion. Obviously not the best round for .50 bmg, but certainly should be fun. Anything hit with this will be bleeding profusely.
@@ -41,6 +43,8 @@ Below is a list of included ammo:
 .50 AE Xtreme Penetrator - 73 dam - 44 pen - Yup, here we go again. This one offers marginally better pen over FMJ, but losses some of the important 1 shot potential. Can no longer 1 tap the chest, but can black the stomach at close range. Useful to ensure helmet pens, or reliably 2 tap the thorax. And of course the butt clinching mag dumps will be quite effective.
 
 4.6x28mm AP GX - 39 dam - 49 pen - Take a small piece of tungsten, add it to the rear to increase weight and likelihood of tumbling. Sounds like something Mechanic would do right?Oddly enough this is a downgrade over the top tier ammo. This on has less pen, but more damage. This fills a niche roll that 4.6 left open. AP SX has a hilarious pen of 53, but damage is exactly 35. Meaning any range or any damage reduction from armor pen, and you can no longer 1 tap the head. AP GX has 49 pen, and 39 damage. So it has a much longer 1 tap range. This makes for a cool synergy where the worse pen ammo gets front loaded in the mag to get reliable 1 taps, but the higher pen stuff goes after to shred the giga chads. I really like this one, let me know what you think.
+
+4.6x30mm FRANG SX: Another leg meta gift. Basically I just made a 4.6 version of the 5.7x28mm R37 F. This is a high damage, low pen round for early game and high RoF guns.  
 
 5.7x30mm SS90 - 52 dam - 32 pen - Your read that right, SS90. This was the original round HK intended to use. It was a super long and light round moving at stupid speed. 23 grains (1.5 grams) at 880 m/s. Silly stuff. But it just didn’t do well in penetration. I added this round as a rare find. It doesn’t really fill a niche, but i think its a cool piece or firearm history/lore.
 
@@ -71,6 +75,18 @@ Slugs: 12/70 TSS AP Wrecking Ball Slug - 172 dam - 44 pen - Loosely based on a f
 12/70 AP-21 Fragmenting AP Slug - 185 damage - 34 pen - This was just a fun little idea. Less penetrating AP-20, but with higher flesh damage and significant chance to fragment and lower bounce probability. Basically means that Tier 4 armor is more problematic, but if it hits it will do considerably more damage. Particularly more effective against legs or stomach hits. This is more of a side grade. Also causes more bleeds.
 
 12/70 Makeshift APEx .50 BMG slug - 180 damage - 36 pen - Explosive - Remember the Raufoss round, make a makeshift .50 BMG slug with that. Enough said. Super rare in raid, another lightkeeper gatekeep. Hilarious.
+
+KS-23:
+The KS-23 shells may be the most difficult shells I have made yet. At first I went into this thinking they would be easy, Big Soviet Gun Stronk Comrade. But I quickly learned how wrong peoples perception of this gun and similar guns is. This is not a crazy soviet era 23mm super shotgun. Its a utilitarian multitool for police and specialty military units. It usually uses stun rounds, gas grenade rounds, and the flash bang. The slug is used purely to stop cars and shoot through light barricades. The shrapnel shells were almost afterthoughts. Hell, the Shrapnel 25 is pretty much a 2 ¾ inch standard 00 buckshot round adapted to fit in the 23mm shell. The system is so low pressure, it really cant push the shells at any real velocity.
+Honestly, the in game rounds are too powerful for the real deal. The civilian market created much better and more effective shells. Quick note: most civilian shells were for the TOS-123, which was actually a smoothbore 26mm gun! I think they basically bored out the rifled AA 23mm barrels to make them. Most sources, of which there are few btw, estimate the civilian shells to be about on par with a 10 gauge to possible a 10 gauge magnum in power and capacity. So the three shells I added are pretty much in line with those, except I slightly reduced the velocity. Again, the KS-23 was quite low pressure, getting 1.5-2 ounce payloads to 1400 fps is gonna grenade the thing.
+For reference, here is a picture f the cross sections for the rounds. https://imgur.com/rgh2Xr7 
+
+23x75 “Shrapnel 5” Buckshot: Reload a used KS-23 shell with #4 buckshot and you have this shell. 54 pellets of #4 buck flung at barely supersonic speeds. Fun times.
+
+23x75 Steel Birdshot: 144 pellets of BB birdshot at roughly the speed of sound is a recipe for a bad time on the receiving end. Will for sure cause a whole heap of bleeds assuming they survive the first shot. Super wide spread, very short range.
+
+23x74mm Lead Slug: The civilian smoothbore versions rarely used slugs, but when they did it was a big ass hunk of lead launched as fast as possible. Believe it or not the Barrakada slug the military used was actually only about a .50 cal sized bullet at 500 grains. .50 BMG is a much better engine stopper. But the barakada basically can’t over penetrate, where as .50 BMG and the russian equivalent absolutely would. Thus, a 2 ounce lead slug (875 grains) being much heavier than 500, this is going to go slower. Another interesting thing, BSG coded the Barakada to be 80 grams, or over 1200 grains. That is just absurd. The Ks-23 would never handle shooting that at 420 m/s.
+
 
 Grenades: Yes, I made some of those too. Good fun. Give me more ideas if you have them!
 
