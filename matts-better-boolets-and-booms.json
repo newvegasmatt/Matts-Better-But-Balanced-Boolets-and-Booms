@@ -610,7 +610,7 @@
       "stats": {
         "damage": 42,
         "penetration": 16,
-        "armorDamage": 40,
+        "armorDamage": 45,
         "initialSpeed": 425,
         "ammoAccr": 10,
         "ammoRec": 15,
@@ -1245,7 +1245,7 @@
       "stats": {
         "damage": 195,
         "penetration": 32,
-        "armorDamage": 45,
+        "armorDamage": 60,
         "initialSpeed": 525,
         "ammoAccr": 100,
         "ammoRec": 60,
@@ -1858,7 +1858,7 @@
       "stats": {
         "damage": 52,
         "penetration": 5,
-        "armorDamage": 25,
+        "armorDamage": 35,
         "initialSpeed": 393,
         "ammoAccr": 10,
         "ammoRec": 150,
@@ -2177,7 +2177,7 @@
       "stats": {
         "damage": 75,
         "penetration": 6,
-        "armorDamage": 30,
+        "armorDamage": 40,
         "initialSpeed": 404,
         "ammoAccr": 30,
         "ammoRec": 50,
@@ -2493,7 +2493,7 @@
       "stats": {
         "damage": 172,
         "penetration": 44,
-        "armorDamage": 72,
+        "armorDamage": 85,
         "initialSpeed": 427,
         "ammoAccr": 120,
         "ammoRec": 25,
@@ -2808,7 +2808,7 @@
       "stats": {
         "damage": 61,
         "penetration": 25,
-        "armorDamage": 60,
+        "armorDamage": 65,
         "initialSpeed": 372,
         "ammoAccr": 20,
         "ammoRec": 5,
@@ -3124,7 +3124,7 @@
       "stats": {
         "damage": 5,
         "penetration": 9,
-        "armorDamage": 15,
+        "armorDamage": 20,
         "initialSpeed": 457,
         "ammoAccr": -50,
         "ammoRec": -20,
@@ -3738,8 +3738,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 180,
-        "penetration": 29,
-        "armorDamage": 65,
+        "penetration": 34,
+        "armorDamage": 75,
         "initialSpeed": 425,
         "ammoAccr": 80,
         "ammoRec": 5,
@@ -7332,11 +7332,11 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 350,
-        "penetration": 22,
-        "armorDamage": 60,
+        "penetration": 29,
+        "armorDamage": 100,
         "initialSpeed": 250,
         "ammoAccr": -10,
-        "ammoRec": 250,
+        "ammoRec": 200,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.65,
         "heavyBleedingDelta": 0.8,
@@ -7616,10 +7616,10 @@
       "stats": {
         "damage": 18,
         "penetration": 6,
-        "armorDamage": 15,
+        "armorDamage": 50,
         "initialSpeed": 260,
         "ammoAccr": -75,
-        "ammoRec": 25,
+        "ammoRec": 75,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.5,
         "heavyBleedingDelta": 0.2,
@@ -7896,7 +7896,7 @@
       "stats": {
         "damage": 4,
         "penetration": 2,
-        "armorDamage": 10,
+        "armorDamage": 26,
         "initialSpeed": 225,
         "ammoAccr": -150,
         "ammoRec": 5,
@@ -9614,7 +9614,7 @@
       "stats": {
         "damage": 19,
         "penetration": 3,
-        "armorDamage": 15,
+        "armorDamage": 25,
         "initialSpeed": 404,
         "ammoAccr": -50,
         "ammoRec": -20,
@@ -9926,7 +9926,7 @@
       "stats": {
         "damage": 33,
         "penetration": 4,
-        "armorDamage": 20,
+        "armorDamage": 30,
         "initialSpeed": 404,
         "ammoAccr": -20,
         "ammoRec": -10,
@@ -10234,7 +10234,7 @@
       "stats": {
         "damage": 6,
         "penetration": 2,
-        "armorDamage": 10,
+        "armorDamage": 20,
         "initialSpeed": 457,
         "ammoAccr": -100,
         "ammoRec": -30,
@@ -10542,7 +10542,7 @@
       "stats": {
         "damage": 61,
         "penetration": 5,
-        "armorDamage": 25,
+        "armorDamage": 35,
         "initialSpeed": 404,
         "ammoAccr": 20,
         "ammoRec": 25,
@@ -10848,21 +10848,21 @@
       "baseTpl": "5d6e6869a4b9361c140bcfde",
       "name": "12/70 Steel Fragmentation Slug",
       "shortName": "St Frag",
-      "description": "The 12/70 Steel Fragmentation Slug is a discarding Sabot 32 Gram Steel Fragmentation Slug sold by Firequest. The whole Slug travels at 1,500 fps and on contact, the center slug releases 6 razor sharp steel petals. The steel center core continues to penetrate deep into soft targets, while the petals flower out and enhance the wound channels. It is less accurate however, but does have less recoil.",
+      "description": "The 12/70 Steel Fragmentation Slug is a discarding Sabot 32 Gram Steel Fragmentation Slug sold by Firequest. The whole Slug travels at 1,500 fps and on contact, the center slug releases 6 razor sharp steel petals. The steel center core continues to penetrate deep into soft targets, while the petals flower out and enhance the wound channels. It is much less accurate however. \nThis ultimately is a close-mid range slug intended for gritty combat, it is not a head-tapper.",
       "customModel": "",
       "customUsePrefab": "",
       "stats": {
-        "damage": 235,
-        "penetration": 31,
-        "armorDamage": 50,
+        "damage": 220,
+        "penetration": 29,
+        "armorDamage": 60,
         "initialSpeed": 457,
-        "ammoAccr": 75,
-        "ammoRec": 10,
+        "ammoAccr": -25,
+        "ammoRec": 50,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.75,
         "heavyBleedingDelta": 0.5,
-        "durabilityBurnModificator": 2,
-        "ballisticCoeficient": 0.24,
+        "durabilityBurnModificator": 2.75,
+        "ballisticCoeficient": 0.16,
         "projectileCount": 1,
         "buckshotBullets": 1,
         "ricochetChance": 0.1,
@@ -10877,7 +10877,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.224,
         "malfFeedChance": 0.01,
-        "heatFactor": 2.02055,
+        "heatFactor": 2.52055,
         "staminaBurnPerDamage": 0.2304,
         "tracer": false,
         "tracerColor": "red",
@@ -10926,7 +10926,7 @@
           "enabled": true,
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 2,
-          "priceRoubles": 479,
+          "priceRoubles": 429,
           "stockCount": 200,
           "buyRestrictionMax": 200,
           "unlimitedStock": false,
@@ -11172,7 +11172,7 @@
       "stats": {
         "damage": 195,
         "penetration": 26,
-        "armorDamage": 40,
+        "armorDamage": 55,
         "initialSpeed": 579,
         "ammoAccr": 250,
         "ammoRec": 0,
@@ -11486,7 +11486,7 @@
       "stats": {
         "damage": 50,
         "penetration": 8,
-        "armorDamage": 30,
+        "armorDamage": 45,
         "initialSpeed": 381,
         "ammoAccr": 25,
         "ammoRec": 40,
@@ -11798,7 +11798,7 @@
       "stats": {
         "damage": 3,
         "penetration": 1,
-        "armorDamage": 5,
+        "armorDamage": 15,
         "initialSpeed": 457,
         "ammoAccr": -150,
         "ammoRec": -50,
@@ -12110,7 +12110,7 @@
       "stats": {
         "damage": 110,
         "penetration": 7,
-        "armorDamage": 35,
+        "armorDamage": 50,
         "initialSpeed": 360,
         "ammoAccr": 15,
         "ammoRec": 125,
@@ -12433,8 +12433,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 28,
-        "penetration": 34,
-        "armorDamage": 50,
+        "penetration": 36,
+        "armorDamage": 55,
         "initialSpeed": 385,
         "ammoAccr": 100,
         "ammoRec": 25,
@@ -12746,7 +12746,7 @@
       "stats": {
         "damage": 240,
         "penetration": 16,
-        "armorDamage": 25,
+        "armorDamage": 45,
         "initialSpeed": 463,
         "ammoAccr": 150,
         "ammoRec": 75,
@@ -13054,7 +13054,7 @@
       "stats": {
         "damage": 205,
         "penetration": 22,
-        "armorDamage": 30,
+        "armorDamage": 50,
         "initialSpeed": 491,
         "ammoAccr": 200,
         "ammoRec": 40,
@@ -13362,7 +13362,7 @@
       "stats": {
         "damage": 275,
         "penetration": 4,
-        "armorDamage": 10,
+        "armorDamage": 30,
         "initialSpeed": 404,
         "ammoAccr": 60,
         "ammoRec": 50,
@@ -13670,7 +13670,7 @@
       "stats": {
         "damage": 140,
         "penetration": 18,
-        "armorDamage": 40,
+        "armorDamage": 50,
         "initialSpeed": 395,
         "ammoAccr": 50,
         "ammoRec": 65,
@@ -13977,8 +13977,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 40,
-        "penetration": 9,
-        "armorDamage": 30,
+        "penetration": 10,
+        "armorDamage": 50,
         "initialSpeed": 385,
         "ammoAccr": 25,
         "ammoRec": 250,
@@ -14008,6 +14008,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -14035,9 +14037,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 300,
@@ -14268,8 +14268,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 9,
-        "penetration": 6,
-        "armorDamage": 12,
+        "penetration": 11,
+        "armorDamage": 33,
         "initialSpeed": 472,
         "ammoAccr": -75,
         "ammoRec": 175,
@@ -14299,6 +14299,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -14326,9 +14328,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 199,
@@ -14559,10 +14559,10 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 321,
-        "penetration": 25,
-        "armorDamage": 45,
+        "penetration": 28,
+        "armorDamage": 60,
         "initialSpeed": 576,
-        "ammoAccr": 100,
+        "ammoAccr": 150,
         "ammoRec": 350,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.4,
@@ -14590,6 +14590,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -14617,9 +14619,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 600,
@@ -14850,10 +14850,10 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 231,
-        "penetration": 34,
-        "armorDamage": 50,
+        "penetration": 35,
+        "armorDamage": 85,
         "initialSpeed": 549,
-        "ammoAccr": 150,
+        "ammoAccr": 175,
         "ammoRec": 400,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
@@ -14881,6 +14881,8 @@
         "tracerDistance": 0.5,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -14908,9 +14910,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 900,
@@ -15141,8 +15141,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 190,
-        "penetration": 43,
-        "armorDamage": 65,
+        "penetration": 46,
+        "armorDamage": 90,
         "initialSpeed": 686,
         "ammoAccr": 125,
         "ammoRec": 300,
@@ -15172,6 +15172,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -15199,9 +15201,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1900,
@@ -15463,6 +15463,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -15490,9 +15492,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 4000,
@@ -15788,6 +15788,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -15815,9 +15817,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 5000,
