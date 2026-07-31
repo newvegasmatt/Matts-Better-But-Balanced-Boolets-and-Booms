@@ -683,8 +683,8 @@
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 3,
           "priceRoubles": 349,
-          "stockCount": 200,
-          "buyRestrictionMax": 200,
+          "stockCount": 300,
+          "buyRestrictionMax": 300,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -1649,8 +1649,8 @@
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 3,
           "priceRoubles": 1979,
-          "stockCount": 200,
-          "buyRestrictionMax": 200,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -2566,8 +2566,8 @@
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 4,
           "priceRoubles": 1449,
-          "stockCount": 80,
-          "buyRestrictionMax": 80,
+          "stockCount": 50,
+          "buyRestrictionMax": 50,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -5038,8 +5038,8 @@
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 4,
           "priceRoubles": 1599,
-          "stockCount": 30,
-          "buyRestrictionMax": 30,
+          "stockCount": 50,
+          "buyRestrictionMax": 50,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         },
@@ -5629,8 +5629,8 @@
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 1,
           "priceRoubles": 175,
-          "stockCount": 200,
-          "buyRestrictionMax": 200,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -6212,8 +6212,8 @@
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 2,
           "priceRoubles": 189,
-          "stockCount": 200,
-          "buyRestrictionMax": 200,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -6811,8 +6811,8 @@
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 1,
           "priceRoubles": 249,
-          "stockCount": 300,
-          "buyRestrictionMax": 300,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -7100,8 +7100,8 @@
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 4,
           "priceRoubles": 8999,
-          "stockCount": 20,
-          "buyRestrictionMax": 20,
+          "stockCount": 50,
+          "buyRestrictionMax": 50,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         },
@@ -7112,8 +7112,8 @@
           "priceRoubles": 2999,
           "stockCount": 80,
           "buyRestrictionMax": 80,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         },
         {
           "enabled": true,
@@ -7122,8 +7122,8 @@
           "priceRoubles": 2999,
           "stockCount": 80,
           "buyRestrictionMax": 80,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         }
       ],
       "crafting": {
@@ -7689,8 +7689,8 @@
           "traderId": "54cb50c76803fa8b248b4571",
           "loyaltyLevel": 2,
           "priceRoubles": 179,
-          "stockCount": 50,
-          "buyRestrictionMax": 50,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -7969,8 +7969,8 @@
           "traderId": "54cb50c76803fa8b248b4571",
           "loyaltyLevel": 1,
           "priceRoubles": 139,
-          "stockCount": 75,
-          "buyRestrictionMax": 75,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -8249,8 +8249,8 @@
           "traderId": "54cb50c76803fa8b248b4571",
           "loyaltyLevel": 2,
           "priceRoubles": 119,
-          "stockCount": 240,
-          "buyRestrictionMax": 240,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -8533,8 +8533,8 @@
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 2,
           "priceRoubles": 99,
-          "stockCount": 240,
-          "buyRestrictionMax": 240,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -11245,8 +11245,8 @@
           "traderId": "58330581ace78e27b8b10cee",
           "loyaltyLevel": 2,
           "priceRoubles": 139,
-          "stockCount": 200,
-          "buyRestrictionMax": 200,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -11871,8 +11871,8 @@
           "traderId": "58330581ace78e27b8b10cee",
           "loyaltyLevel": 1,
           "priceRoubles": 29,
-          "stockCount": 300,
-          "buyRestrictionMax": 300,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -12821,8 +12821,8 @@
           "priceRoubles": 39,
           "stockCount": 200,
           "buyRestrictionMax": 200,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         }
       ],
       "crafting": {
@@ -13745,8 +13745,8 @@
           "priceRoubles": 189,
           "stockCount": 200,
           "buyRestrictionMax": 200,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         }
       ],
       "crafting": {
@@ -14051,8 +14051,8 @@
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 2,
           "priceRoubles": 239,
-          "stockCount": 75,
-          "buyRestrictionMax": 75,
+          "stockCount": 240,
+          "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -14342,8 +14342,8 @@
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 1,
           "priceRoubles": 159,
-          "stockCount": 200,
-          "buyRestrictionMax": 200,
+          "stockCount": 240,
+          "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -14633,8 +14633,8 @@
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 3,
           "priceRoubles": 389,
-          "stockCount": 50,
-          "buyRestrictionMax": 50,
+          "stockCount": 240,
+          "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -15215,8 +15215,8 @@
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 4,
           "priceRoubles": 1379,
-          "stockCount": 25,
-          "buyRestrictionMax": 25,
+          "stockCount": 50,
+          "buyRestrictionMax": 50,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -15525,7 +15525,7 @@
           "enabled": true,
           "traderId": "6617beeaa9cfa777ca915b7c",
           "loyaltyLevel": 4,
-          "priceRoubles": 2999,
+          "priceRoubles": 9999,
           "stockCount": 20,
           "buyRestrictionMax": 20,
           "unlimitedStock": false,
@@ -15830,7 +15830,7 @@
           "enabled": true,
           "traderId": "638f541a29ffd1183d187f57",
           "loyaltyLevel": 1,
-          "priceRoubles": 2999,
+          "priceRoubles": 1999,
           "stockCount": 40,
           "buyRestrictionMax": 40,
           "unlimitedStock": false,
@@ -15840,7 +15840,7 @@
           "enabled": true,
           "traderId": "6864e812f9fe664cb8b8e152",
           "loyaltyLevel": 1,
-          "priceRoubles": 2999,
+          "priceRoubles": 1999,
           "stockCount": 40,
           "buyRestrictionMax": 40,
           "unlimitedStock": false,
@@ -15850,7 +15850,7 @@
           "enabled": true,
           "traderId": "6617beeaa9cfa777ca915b7c",
           "loyaltyLevel": 4,
-          "priceRoubles": 3999,
+          "priceRoubles": 9999,
           "stockCount": 20,
           "buyRestrictionMax": 20,
           "unlimitedStock": false,
@@ -16056,6 +16056,572 @@
         "casingName": "Обычный 7.62х54R СНБ",
         "casingSounds": "rifle762"
       }
+    },
+    {
+      "id": "3a7b464324ef84fb7ce8e3d9",
+      "enabled": true,
+      "baseTpl": "5cadf6ddae9215051e1c23b2",
+      "name": "12.7x55mm PS12 Supersonic",
+      "shortName": "PS12S",
+      "description": "The 12.7x55mm PS12 Supersonic is a standard PS12 round with added gunpowder. This means this round is no longer subsonic, and is therefore much louder, however its penetration increases substantially.",
+      "customModel": "",
+      "customUsePrefab": "",
+      "stats": {
+        "damage": 109,
+        "penetration": 35,
+        "armorDamage": 60,
+        "initialSpeed": 427,
+        "ammoAccr": 10,
+        "ammoRec": 5,
+        "stackMaxSize": 0,
+        "lightBleedingDelta": 0.3,
+        "heavyBleedingDelta": 0.2,
+        "durabilityBurnModificator": 1.6,
+        "ballisticCoeficient": 0.426,
+        "projectileCount": 1,
+        "buckshotBullets": 0,
+        "ricochetChance": 0.45,
+        "fragmentationChance": 0.3,
+        "penetrationDamageMod": 0.15,
+        "penetrationChanceObstacle": 0.65,
+        "penetrationPowerDiviation": 1,
+        "ammoLifeTimeSec": 5,
+        "bulletMassGram": 33,
+        "bulletDiameterMilimeters": 13.01,
+        "weight": 0.071,
+        "misfireChance": 0.015,
+        "malfMisfireChance": 0.175,
+        "malfFeedChance": 0.02,
+        "heatFactor": 2.75,
+        "staminaBurnPerDamage": 0.2,
+        "tracer": false,
+        "tracerColor": "red",
+        "tracerDistance": 0,
+        "ammoSfx": "standart",
+        "casingSounds": "127rifle",
+        "hasGrenaderComponent": false,
+        "fuzeArmTimeSec": 0,
+        "minExplosionDistance": 0,
+        "maxExplosionDistance": 0,
+        "fragmentsCount": 0,
+        "fragmentType": "5996f6d686f77467977ba6cc",
+        "explosionType": "",
+        "explosionStrength": 0,
+        "showHitEffectOnExplode": false,
+        "isLightAndSoundShot": false,
+        "lightAndSoundShotAngle": 0,
+        "lightAndSoundShotSelfContusionTime": 0,
+        "lightAndSoundShotSelfContusionStrength": 0,
+        "armorDistanceDistanceDamage": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "contusion": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "backgroundColor": "green",
+        "backgroundAlpha": 1
+      },
+      "economy": {
+        "handbookPriceRoubles": 550,
+        "fleaPriceRoubles": 798,
+        "rarityPvE": "Rare",
+        "fleaBanned": false
+      },
+      "traders": [
+        {
+          "enabled": true,
+          "traderId": "54cb50c76803fa8b248b4571",
+          "loyaltyLevel": 3,
+          "priceRoubles": 489,
+          "stockCount": 200,
+          "buyRestrictionMax": 200,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        }
+      ],
+      "crafting": {
+        "enabled": true,
+        "workbenchLevel": 2,
+        "craftTimeSeconds": 300,
+        "outputCount": 60,
+        "requirements": [
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          },
+          {
+            "tpl": "5cadf6ddae9215051e1c23b2",
+            "count": 60
+          }
+        ]
+      },
+      "filters": {
+        "patchMagazines": [
+          "5caf1041ae92157c28402e3f",
+          "5caf1109ae9215753c44119f",
+          "633ec6ee025b096d320a3b15"
+        ],
+        "patchWeapons": [
+          "5cadfbf7ae92152ac412eeef",
+          "633ec7c2a6918cb895019c6c"
+        ]
+      },
+      "moddedFilterExclusions": {
+        "excludeMagazines": [],
+        "excludeWeapons": []
+      },
+      "ammoBox": {
+        "id": "50e7b92e355aabe887e4d0bc",
+        "enabled": true,
+        "baseTpl": "6570241bcfc010a0f50069f5",
+        "count": 10,
+        "name": "Box of 12.7x55mm PS12 Supersonic",
+        "shortName": "PS12S Box",
+        "description": "A Box of 12.7x55mm PS12 Supersonic rounds.",
+        "customModel": "",
+        "customUsePrefab": "",
+        "handbookPriceRoubles": 0,
+        "rarityPvE": "Rare",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
+        "sellToTraders": false,
+        "traderPriceRoubles": 0
+      },
+      "ammoLoot": {
+        "enabled": false,
+        "containerIds": [],
+        "rarity": "Rare"
+      },
+      "ammoBoxLoot": {
+        "enabled": false,
+        "containerIds": [],
+        "rarity": "Rare"
+      },
+      "properties": {
+        "AmmoLifeTimeSec": 5,
+        "AmmoTooltipClass": "Universal",
+        "AnimationVariantsNumber": 0,
+        "ArmorDamage": 60,
+        "ArmorDistanceDistanceDamage": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BackgroundColor": "yellow",
+        "BallisticCoeficient": 0.426,
+        "Blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BulletDiameterMilimeters": 13.01,
+        "BulletMassGram": 33,
+        "Caliber": "Caliber127x55",
+        "CanRequireOnRagfair": false,
+        "CanSellOnRagfair": true,
+        "ConflictingItems": [],
+        "Contusion": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Damage": 115,
+        "Description": "patron_12,7x55_ps12",
+        "Deterioration": 1,
+        "DiscardLimit": -1,
+        "DiscardingBlock": false,
+        "DropSoundType": "None",
+        "DurabilityBurnModificator": 1.4,
+        "ExamineExperience": 10,
+        "ExamineTime": 1,
+        "ExaminedByDefault": true,
+        "ExplosionStrength": 0,
+        "ExplosionType": "",
+        "ExtraSizeDown": 0,
+        "ExtraSizeForceAdd": false,
+        "ExtraSizeLeft": 0,
+        "ExtraSizeRight": 0,
+        "ExtraSizeUp": 0,
+        "FlareTypes": [],
+        "FragmentType": "5996f6d686f77467977ba6cc",
+        "FragmentationChance": 0.3,
+        "FragmentsCount": 0,
+        "FuzeArmTimeSec": 0,
+        "HasGrenaderComponent": false,
+        "HeatFactor": 2.3845,
+        "HeavyBleedingDelta": 0.2,
+        "Height": 1,
+        "HideEntrails": false,
+        "InitialSpeed": 300,
+        "InsuranceDisabled": false,
+        "IsAlwaysAvailableForInsurance": false,
+        "IsLightAndSoundShot": false,
+        "IsLockedafterEquip": false,
+        "IsSecretExitRequirement": false,
+        "IsSpecialSlotOnly": false,
+        "IsUnbuyable": false,
+        "IsUndiscardable": false,
+        "IsUngivable": false,
+        "IsUnremovable": false,
+        "IsUnsaleable": false,
+        "ItemSound": "ammo_singleround",
+        "LeftHandItem": false,
+        "LightAndSoundShotAngle": 0,
+        "LightAndSoundShotSelfContusionStrength": 0,
+        "LightAndSoundShotSelfContusionTime": 0,
+        "LightBleedingDelta": 0.3,
+        "LootExperience": 0,
+        "MalfFeedChance": 0.02,
+        "MalfMisfireChance": 0.175,
+        "MaxExplosionDistance": 0,
+        "MaxFragmentsCount": 4,
+        "MergesWithChildren": false,
+        "MetascoreGroup": "Firepower",
+        "MinExplosionDistance": 0,
+        "MinFragmentsCount": 2,
+        "MisfireChance": 0.01,
+        "Name": "patron_12,7x55_ps12",
+        "NotShownInSlot": false,
+        "PenetrationChanceObstacle": 0.6,
+        "PenetrationDamageMod": 0.15,
+        "PenetrationPower": 28,
+        "PenetrationPowerDiviation": 1,
+        "Prefab": {
+          "path": "assets/content/items/ammo/patrons/patron_12,7x55_ps12.bundle",
+          "rcid": ""
+        },
+        "ProjectileCount": 1,
+        "QuestItem": false,
+        "QuestStashMaxCount": 0,
+        "RagFairCommissionModifier": 1,
+        "RarityPvE": "Rare",
+        "RemoveShellAfterFire": false,
+        "RepairCost": 0,
+        "RepairSpeed": 0,
+        "RicochetChance": 0.4,
+        "ShortName": "patron_12,7x55_ps12",
+        "ShowBullet": false,
+        "ShowHitEffectOnExplode": false,
+        "SpeedRetardation": 0.00009,
+        "StackMaxRandom": 15,
+        "StackMaxSize": 30,
+        "StackMinRandom": 3,
+        "StackObjectsCount": 1,
+        "StaminaBurnPerDamage": 0.2016,
+        "Tracer": false,
+        "TracerColor": "red",
+        "TracerDistance": 0,
+        "Unlootable": false,
+        "UnlootableFromSide": [],
+        "UnlootableFromSlot": "FirstPrimaryWeapon",
+        "UsePrefab": {
+          "path": "",
+          "rcid": ""
+        },
+        "Weight": 0.07,
+        "Width": 1,
+        "airDropTemplateId": "",
+        "ammoAccr": 10,
+        "ammoDist": 0,
+        "ammoHear": 0,
+        "ammoRec": 0,
+        "ammoSfx": "standart",
+        "ammoShiftChance": 0,
+        "ammoType": "bullet",
+        "buckshotBullets": 0,
+        "casingEjectPower": 0,
+        "casingMass": 25,
+        "casingName": "5.45x39 мм ПС",
+        "casingSounds": "127rifle"
+      }
+    },
+    {
+      "id": "199e53cf7de8ec183618ad25",
+      "enabled": true,
+      "baseTpl": "5fc382b6d6fa9c00c571bbc3",
+      "name": ".338 Lapua Magnum Fr HP",
+      "shortName": ".338 Fr",
+      "description": "The .338 Lapua Magnum Fr HP is a copper-tin frangible round intended for target practice without destroying steel target. Designed to mimic the flight path of similar hunting rounds, it should impact where expected. Like its closely related .50bmg round, it can dump all of immense energy in a single gel block.",
+      "customModel": "",
+      "customUsePrefab": "",
+      "stats": {
+        "damage": 226,
+        "penetration": 9,
+        "armorDamage": 35,
+        "initialSpeed": 880,
+        "ammoAccr": 10,
+        "ammoRec": -10,
+        "stackMaxSize": 0,
+        "lightBleedingDelta": 0.99,
+        "heavyBleedingDelta": 0.75,
+        "durabilityBurnModificator": 1.3,
+        "ballisticCoeficient": 0.476,
+        "projectileCount": 1,
+        "buckshotBullets": 0,
+        "ricochetChance": 0.4,
+        "fragmentationChance": 0.95,
+        "penetrationDamageMod": 0.5,
+        "penetrationChanceObstacle": 0.1,
+        "penetrationPowerDiviation": 1,
+        "ammoLifeTimeSec": 5,
+        "bulletMassGram": 18,
+        "bulletDiameterMilimeters": 8.58,
+        "weight": 0.043,
+        "misfireChance": 0.01,
+        "malfMisfireChance": 0.21,
+        "malfFeedChance": 0.0891,
+        "heatFactor": 2.934,
+        "staminaBurnPerDamage": 0.2592,
+        "tracer": false,
+        "tracerColor": "red",
+        "tracerDistance": 0,
+        "ammoSfx": "standart",
+        "casingSounds": "50cal",
+        "hasGrenaderComponent": true,
+        "fuzeArmTimeSec": 0,
+        "minExplosionDistance": 0,
+        "maxExplosionDistance": 0,
+        "fragmentsCount": 0,
+        "fragmentType": "5996f6d686f77467977ba6cc",
+        "explosionType": "big_round_impact",
+        "explosionStrength": 0,
+        "showHitEffectOnExplode": true,
+        "isLightAndSoundShot": false,
+        "lightAndSoundShotAngle": 0,
+        "lightAndSoundShotSelfContusionTime": 0,
+        "lightAndSoundShotSelfContusionStrength": 0,
+        "armorDistanceDistanceDamage": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "contusion": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1
+      },
+      "economy": {
+        "handbookPriceRoubles": 680,
+        "fleaPriceRoubles": 1200,
+        "rarityPvE": "Rare",
+        "fleaBanned": false
+      },
+      "traders": [
+        {
+          "enabled": true,
+          "traderId": "5c0647fdd443bc2504c2d371",
+          "loyaltyLevel": 1,
+          "priceRoubles": 519,
+          "stockCount": 100,
+          "buyRestrictionMax": 100,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        }
+      ],
+      "crafting": {
+        "enabled": false,
+        "workbenchLevel": 2,
+        "craftTimeSeconds": 10800,
+        "outputCount": 100,
+        "requirements": []
+      },
+      "filters": {
+        "patchMagazines": [
+          "628120fd5631d45211793c9f",
+          "5fc23426900b1d5091531e15",
+          "673cbdfad0453ba50c0f76d6"
+        ],
+        "patchWeapons": [
+          "627e14b21713922ded6f2c15",
+          "673cab3e03c6a20581028bc1",
+          "5fc22d7c187fea44d52eda44"
+        ]
+      },
+      "moddedFilterExclusions": {
+        "excludeMagazines": [],
+        "excludeWeapons": []
+      },
+      "ammoBox": {
+        "id": "2e9d0b644ed68b5a5a03164a",
+        "enabled": false,
+        "baseTpl": "",
+        "count": 0,
+        "name": "",
+        "shortName": "",
+        "description": "",
+        "customModel": "",
+        "customUsePrefab": "",
+        "handbookPriceRoubles": 0,
+        "rarityPvE": "Rare",
+        "backgroundColor": "default",
+        "backgroundAlpha": 1,
+        "sellToTraders": false,
+        "traderPriceRoubles": 0
+      },
+      "ammoLoot": {
+        "enabled": false,
+        "containerIds": [],
+        "rarity": "Rare"
+      },
+      "ammoBoxLoot": {
+        "enabled": false,
+        "containerIds": [],
+        "rarity": "Rare"
+      },
+      "properties": {
+        "AmmoLifeTimeSec": 5,
+        "AmmoTooltipClass": "SoftTargets",
+        "AnimationVariantsNumber": 0,
+        "ArmorDamage": 55,
+        "ArmorDistanceDistanceDamage": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BackgroundColor": "yellow",
+        "BallisticCoeficient": 0.476,
+        "Blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BulletDiameterMilimeters": 8.58,
+        "BulletMassGram": 18.5,
+        "Caliber": "Caliber86x70",
+        "CanRequireOnRagfair": false,
+        "CanSellOnRagfair": true,
+        "ConflictingItems": [],
+        "Contusion": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Damage": 196,
+        "Description": "default_308",
+        "Deterioration": 1,
+        "DiscardLimit": -1,
+        "DiscardingBlock": false,
+        "DropSoundType": "None",
+        "DurabilityBurnModificator": 1.4,
+        "ExamineExperience": 10,
+        "ExamineTime": 1,
+        "ExaminedByDefault": true,
+        "ExplosionStrength": 0,
+        "ExplosionType": "big_round_impact",
+        "ExtraSizeDown": 0,
+        "ExtraSizeForceAdd": false,
+        "ExtraSizeLeft": 0,
+        "ExtraSizeRight": 0,
+        "ExtraSizeUp": 0,
+        "FlareTypes": [],
+        "FragmentType": "5996f6d686f77467977ba6cc",
+        "FragmentationChance": 0.5,
+        "FragmentsCount": 0,
+        "FuzeArmTimeSec": 0,
+        "HasGrenaderComponent": true,
+        "HeatFactor": 2.934,
+        "HeavyBleedingDelta": 0.5,
+        "Height": 1,
+        "HideEntrails": false,
+        "InitialSpeed": 880,
+        "InsuranceDisabled": false,
+        "IsAlwaysAvailableForInsurance": false,
+        "IsLightAndSoundShot": false,
+        "IsLockedafterEquip": false,
+        "IsSecretExitRequirement": false,
+        "IsSpecialSlotOnly": false,
+        "IsUnbuyable": false,
+        "IsUndiscardable": false,
+        "IsUngivable": false,
+        "IsUnremovable": false,
+        "IsUnsaleable": false,
+        "ItemSound": "ammo_singleround",
+        "LeftHandItem": false,
+        "LightAndSoundShotAngle": 0,
+        "LightAndSoundShotSelfContusionStrength": 0,
+        "LightAndSoundShotSelfContusionTime": 0,
+        "LightBleedingDelta": 0.8,
+        "LootExperience": 0,
+        "MalfFeedChance": 0.0891,
+        "MalfMisfireChance": 0.21,
+        "MaxExplosionDistance": 0,
+        "MaxFragmentsCount": 2,
+        "MergesWithChildren": false,
+        "MetascoreGroup": "Firepower",
+        "MinExplosionDistance": 0,
+        "MinFragmentsCount": 1,
+        "MisfireChance": 0.01,
+        "Name": "default_308",
+        "NotShownInSlot": false,
+        "PenetrationChanceObstacle": 0.3,
+        "PenetrationDamageMod": 0,
+        "PenetrationPower": 18,
+        "PenetrationPowerDiviation": 1,
+        "Prefab": {
+          "path": "assets/content/items/ammo/patrons/patron_86x70_lapua_tac_x.bundle",
+          "rcid": ""
+        },
+        "ProjectileCount": 1,
+        "QuestItem": false,
+        "QuestStashMaxCount": 0,
+        "RagFairCommissionModifier": 1,
+        "RarityPvE": "Rare",
+        "RemoveShellAfterFire": false,
+        "RepairCost": 0,
+        "RepairSpeed": 0,
+        "RicochetChance": 0.4,
+        "ShortName": "default_308",
+        "ShowBullet": false,
+        "ShowHitEffectOnExplode": true,
+        "SpeedRetardation": 0.000011,
+        "StackMaxRandom": 8,
+        "StackMaxSize": 30,
+        "StackMinRandom": 2,
+        "StackObjectsCount": 1,
+        "StaminaBurnPerDamage": 0.2592,
+        "Tracer": false,
+        "TracerColor": "red",
+        "TracerDistance": 0,
+        "Unlootable": false,
+        "UnlootableFromSide": [],
+        "UnlootableFromSlot": "FirstPrimaryWeapon",
+        "UsePrefab": {
+          "path": "",
+          "rcid": ""
+        },
+        "Weight": 0.044,
+        "Width": 1,
+        "airDropTemplateId": "",
+        "ammoAccr": 10,
+        "ammoDist": 0,
+        "ammoHear": 0,
+        "ammoRec": -5,
+        "ammoSfx": "standart",
+        "ammoShiftChance": 0,
+        "ammoType": "bullet",
+        "buckshotBullets": 0,
+        "casingEjectPower": 0,
+        "casingMass": 77.16,
+        "casingName": ".338",
+        "casingSounds": "50cal"
+      }
     }
   ],
   "grenades": [
@@ -16097,7 +16663,7 @@
         "throwType": "flash_grenade",
         "throwDamMax": 0,
         "weight": 0.51,
-        "backgroundColor": "violet",
+        "backgroundColor": "blue",
         "backgroundAlpha": 1,
         "smokeColor": "",
         "bodyColor": "",
@@ -16123,7 +16689,7 @@
           "enabled": true,
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 3,
-          "priceRoubles": 19690,
+          "priceRoubles": 12699,
           "stockCount": 5,
           "buyRestrictionMax": 5,
           "unlimitedStock": false,
@@ -16278,7 +16844,7 @@
           "z": 0
         },
         "contusionDistance": 14,
-        "explDelay": 1.5,
+        "explDelay": 1.9,
         "minTimeToContactExplode": -1,
         "playFuzeSound": false,
         "strength": 120,
@@ -16313,7 +16879,7 @@
           "enabled": true,
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 4,
-          "priceRoubles": 32500,
+          "priceRoubles": 17399,
           "stockCount": 3,
           "buyRestrictionMax": 3,
           "unlimitedStock": false,
@@ -16478,7 +17044,7 @@
         "throwType": "frag_grenade",
         "throwDamMax": 0,
         "weight": 0.65,
-        "backgroundColor": "violet",
+        "backgroundColor": "green",
         "backgroundAlpha": 1,
         "smokeColor": "",
         "bodyColor": "",
@@ -16504,7 +17070,7 @@
           "enabled": true,
           "traderId": "54cb50c76803fa8b248b4571",
           "loyaltyLevel": 3,
-          "priceRoubles": 18300,
+          "priceRoubles": 11299,
           "stockCount": 3,
           "buyRestrictionMax": 3,
           "unlimitedStock": false,
@@ -16672,7 +17238,7 @@
         "throwType": "frag_grenade",
         "throwDamMax": 0,
         "weight": 0.38,
-        "backgroundColor": "violet",
+        "backgroundColor": "blue",
         "backgroundAlpha": 1,
         "smokeColor": "",
         "bodyColor": "",
@@ -16698,9 +17264,9 @@
           "enabled": true,
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 3,
-          "priceRoubles": 22222,
-          "stockCount": 2,
-          "buyRestrictionMax": 2,
+          "priceRoubles": 19199,
+          "stockCount": 3,
+          "buyRestrictionMax": 3,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
