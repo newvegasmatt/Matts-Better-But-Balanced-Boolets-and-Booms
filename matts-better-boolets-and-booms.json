@@ -16099,6 +16099,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "127rifle",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -16126,9 +16128,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 550,
@@ -16386,6 +16386,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "50cal",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": true,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -16413,9 +16415,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 680,
@@ -16665,6 +16665,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "pistol_small",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -16692,9 +16694,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1200,
@@ -16996,6 +16996,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "pistol_small",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -17023,9 +17025,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1200,
@@ -17327,6 +17327,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "pistol_small",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -17354,9 +17356,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 800,
@@ -17659,6 +17659,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "pistol_small",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -17686,9 +17688,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 400,
@@ -17996,6 +17996,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "pistol_small",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -18023,9 +18025,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 300,
@@ -18327,14 +18327,16 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": true,
         "fuzeArmTimeSec": 0,
-        "minExplosionDistance": 1,
-        "maxExplosionDistance": 2,
-        "fragmentsCount": 3,
+        "minExplosionDistance": 0.5,
+        "maxExplosionDistance": 1.5,
+        "fragmentsCount": 0,
         "fragmentType": "5996f6d686f77467977ba6cc",
         "explosionType": "big_round_impact_explosive",
-        "explosionStrength": 5,
+        "explosionStrength": 4,
         "showHitEffectOnExplode": true,
         "isLightAndSoundShot": false,
         "lightAndSoundShotAngle": 0,
@@ -18354,9 +18356,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 3500,
@@ -18654,14 +18654,16 @@
         "tracerDistance": 0.5,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": true,
         "fuzeArmTimeSec": 0,
-        "minExplosionDistance": 1,
-        "maxExplosionDistance": 3,
-        "fragmentsCount": 5,
+        "minExplosionDistance": 0.5,
+        "maxExplosionDistance": 2,
+        "fragmentsCount": 0,
         "fragmentType": "5996f6d686f77467977ba6cc",
         "explosionType": "big_round_impact_explosive",
-        "explosionStrength": 7,
+        "explosionStrength": 6,
         "showHitEffectOnExplode": true,
         "isLightAndSoundShot": false,
         "lightAndSoundShotAngle": 0,
@@ -18681,9 +18683,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 3600,
