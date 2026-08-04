@@ -12,12 +12,12 @@
       "customModel": "",
       "customUsePrefab": "",
       "stats": {
-        "damage": 40,
-        "penetration": 41,
+        "damage": 38,
+        "penetration": 35,
         "armorDamage": 40,
         "initialSpeed": 500,
-        "ammoAccr": -5,
-        "ammoRec": 15,
+        "ammoAccr": -7,
+        "ammoRec": 25,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0,
         "heavyBleedingDelta": 0,
@@ -314,7 +314,7 @@
       "stats": {
         "damage": 37,
         "penetration": 36,
-        "armorDamage": 40,
+        "armorDamage": 45,
         "initialSpeed": 580,
         "ammoAccr": -5,
         "ammoRec": 15,
@@ -386,7 +386,7 @@
           "enabled": true,
           "traderId": "54cb50c76803fa8b248b4571",
           "loyaltyLevel": 3,
-          "priceRoubles": 260,
+          "priceRoubles": 509,
           "stockCount": 200,
           "buyRestrictionMax": 200,
           "unlimitedStock": false,
@@ -612,7 +612,7 @@
         "penetration": 16,
         "armorDamage": 45,
         "initialSpeed": 425,
-        "ammoAccr": 30,
+        "ammoAccr": 20,
         "ammoRec": 15,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
@@ -622,7 +622,7 @@
         "projectileCount": 12,
         "buckshotBullets": 12,
         "ricochetChance": 0.05,
-        "fragmentationChance": 0.25,
+        "fragmentationChance": 0.2,
         "penetrationDamageMod": 0,
         "penetrationChanceObstacle": 0.25,
         "penetrationPowerDiviation": 0,
@@ -939,12 +939,12 @@
       "customModel": "",
       "customUsePrefab": "",
       "stats": {
-        "damage": 45,
+        "damage": 44,
         "penetration": 43,
         "armorDamage": 50,
         "initialSpeed": 465,
         "ammoAccr": -10,
-        "ammoRec": 20,
+        "ammoRec": 25,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0,
         "heavyBleedingDelta": 0,
@@ -1257,7 +1257,7 @@
         "projectileCount": 1,
         "buckshotBullets": 8,
         "ricochetChance": 0.05,
-        "fragmentationChance": 0.4,
+        "fragmentationChance": 0.35,
         "penetrationDamageMod": 0.25,
         "penetrationChanceObstacle": 0.4,
         "penetrationPowerDiviation": 0,
@@ -1648,7 +1648,7 @@
           "enabled": true,
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "loyaltyLevel": 3,
-          "priceRoubles": 1979,
+          "priceRoubles": 1479,
           "stockCount": 600,
           "buyRestrictionMax": 600,
           "unlimitedStock": false,
@@ -1860,7 +1860,7 @@
         "penetration": 5,
         "armorDamage": 35,
         "initialSpeed": 393,
-        "ammoAccr": 25,
+        "ammoAccr": 15,
         "ammoRec": 150,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.25,
@@ -2179,7 +2179,7 @@
         "penetration": 6,
         "armorDamage": 40,
         "initialSpeed": 404,
-        "ammoAccr": 50,
+        "ammoAccr": 35,
         "ammoRec": 50,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.2,
@@ -4136,7 +4136,7 @@
           "enabled": true,
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 3,
-          "priceRoubles": 589,
+          "priceRoubles": 789,
           "stockCount": 200,
           "buyRestrictionMax": 200,
           "unlimitedStock": false,
@@ -4398,7 +4398,7 @@
         "projectileCount": 1,
         "buckshotBullets": 0,
         "ricochetChance": 0.45,
-        "fragmentationChance": 0.25,
+        "fragmentationChance": 0.2,
         "penetrationDamageMod": 0.2,
         "penetrationChanceObstacle": 0.6,
         "penetrationPowerDiviation": 0.1,
@@ -4673,19 +4673,19 @@
       "stats": {
         "damage": 52,
         "penetration": 32,
-        "armorDamage": 34,
+        "armorDamage": 39,
         "initialSpeed": 850,
         "ammoAccr": 5,
         "ammoRec": -15,
         "stackMaxSize": 0,
-        "lightBleedingDelta": 0.15,
-        "heavyBleedingDelta": 0.05,
+        "lightBleedingDelta": 0.25,
+        "heavyBleedingDelta": 0.2,
         "durabilityBurnModificator": 1,
         "ballisticCoeficient": 0.27,
         "projectileCount": 1,
         "buckshotBullets": 0,
         "ricochetChance": 0.3,
-        "fragmentationChance": 0.4,
+        "fragmentationChance": 0.5,
         "penetrationDamageMod": 0.25,
         "penetrationChanceObstacle": 0.3,
         "penetrationPowerDiviation": 1,
@@ -4970,8 +4970,8 @@
         "ammoAccr": 5,
         "ammoRec": 5,
         "stackMaxSize": 0,
-        "lightBleedingDelta": 0.1,
-        "heavyBleedingDelta": 0.05,
+        "lightBleedingDelta": 0,
+        "heavyBleedingDelta": 0,
         "durabilityBurnModificator": 1.3,
         "ballisticCoeficient": 0.25,
         "projectileCount": 1,
@@ -5849,7 +5849,7 @@
         "ammoRec": 15,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.25,
-        "heavyBleedingDelta": 0.15,
+        "heavyBleedingDelta": 0.2,
         "durabilityBurnModificator": 1.7,
         "ballisticCoeficient": 0.17,
         "projectileCount": 1,
@@ -9928,7 +9928,7 @@
         "penetration": 4,
         "armorDamage": 30,
         "initialSpeed": 404,
-        "ammoAccr": 0,
+        "ammoAccr": -10,
         "ammoRec": -10,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
@@ -10544,7 +10544,7 @@
         "penetration": 5,
         "armorDamage": 35,
         "initialSpeed": 404,
-        "ammoAccr": 30,
+        "ammoAccr": 20,
         "ammoRec": 25,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.25,
@@ -11488,7 +11488,7 @@
         "penetration": 8,
         "armorDamage": 45,
         "initialSpeed": 381,
-        "ammoAccr": 35,
+        "ammoAccr": 25,
         "ammoRec": 40,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.4,
@@ -12112,7 +12112,7 @@
         "penetration": 7,
         "armorDamage": 50,
         "initialSpeed": 360,
-        "ammoAccr": 75,
+        "ammoAccr": 50,
         "ammoRec": 125,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
@@ -12122,7 +12122,7 @@
         "projectileCount": 4,
         "buckshotBullets": 4,
         "ricochetChance": 0.05,
-        "fragmentationChance": 0.25,
+        "fragmentationChance": 0.2,
         "penetrationDamageMod": 0.2,
         "penetrationChanceObstacle": 0.3,
         "penetrationPowerDiviation": 1,
@@ -13980,7 +13980,7 @@
         "penetration": 10,
         "armorDamage": 50,
         "initialSpeed": 385,
-        "ammoAccr": 30,
+        "ammoAccr": 20,
         "ammoRec": 250,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
@@ -13990,7 +13990,7 @@
         "projectileCount": 18,
         "buckshotBullets": 18,
         "ricochetChance": 0,
-        "fragmentationChance": 0.2,
+        "fragmentationChance": 0,
         "penetrationDamageMod": 0.3,
         "penetrationChanceObstacle": 0.15,
         "penetrationPowerDiviation": 1,
@@ -14284,7 +14284,7 @@
         "penetration": 11,
         "armorDamage": 33,
         "initialSpeed": 472,
-        "ammoAccr": -75,
+        "ammoAccr": -100,
         "ammoRec": 175,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.5,
@@ -14888,7 +14888,7 @@
       "customModel": "",
       "customUsePrefab": "",
       "stats": {
-        "damage": 231,
+        "damage": 221,
         "penetration": 35,
         "armorDamage": 85,
         "initialSpeed": 549,
@@ -14902,7 +14902,7 @@
         "projectileCount": 1,
         "buckshotBullets": 1,
         "ricochetChance": 0.1,
-        "fragmentationChance": 0.2,
+        "fragmentationChance": 0.05,
         "penetrationDamageMod": 0.2,
         "penetrationChanceObstacle": 0.35,
         "penetrationPowerDiviation": 0.1,
@@ -16137,7 +16137,7 @@
         "armorDamage": 60,
         "initialSpeed": 427,
         "ammoAccr": 10,
-        "ammoRec": 5,
+        "ammoRec": 17,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
         "heavyBleedingDelta": 0.2,
@@ -19602,7 +19602,7 @@
         "penetration": 12,
         "armorDamage": 55,
         "initialSpeed": 381,
-        "ammoAccr": 50,
+        "ammoAccr": 30,
         "ammoRec": 300,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
@@ -19612,7 +19612,7 @@
         "projectileCount": 12,
         "buckshotBullets": 12,
         "ricochetChance": 0,
-        "fragmentationChance": 0.25,
+        "fragmentationChance": 0,
         "penetrationDamageMod": 0.35,
         "penetrationChanceObstacle": 0.2,
         "penetrationPowerDiviation": 1,
@@ -19925,6 +19925,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "pistol_small",
+        "backgroundColor": "red",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -19952,9 +19954,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "red",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 160,
@@ -19967,7 +19967,7 @@
           "enabled": true,
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 1,
-          "priceRoubles": 139,
+          "priceRoubles": 169,
           "stockCount": 300,
           "buyRestrictionMax": 300,
           "unlimitedStock": false,
@@ -20208,6 +20208,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "red",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -20235,9 +20237,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "red",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 140,
@@ -20506,6 +20506,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "red",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -20533,9 +20535,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "red",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 180,
@@ -20812,6 +20812,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -20839,9 +20841,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 260,
@@ -21135,6 +21135,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -21162,9 +21164,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 150,
@@ -21433,6 +21433,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -21460,9 +21462,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 175,
@@ -21713,15 +21713,15 @@
       "customModel": "",
       "customUsePrefab": "",
       "stats": {
-        "damage": 64,
+        "damage": 60,
         "penetration": 45,
         "armorDamage": 55,
         "initialSpeed": 405,
         "ammoAccr": -10,
         "ammoRec": 30,
         "stackMaxSize": 0,
-        "lightBleedingDelta": 0.1,
-        "heavyBleedingDelta": 0.1,
+        "lightBleedingDelta": 0,
+        "heavyBleedingDelta": 0,
         "durabilityBurnModificator": 5,
         "ballisticCoeficient": 0.197,
         "projectileCount": 1,
@@ -21745,6 +21745,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "pistol_small",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -21772,9 +21774,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1000,
@@ -22033,6 +22033,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -22060,9 +22062,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 101,
@@ -22339,6 +22339,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -22366,9 +22368,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 140,
@@ -22645,6 +22645,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -22672,9 +22674,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 240,
@@ -22951,6 +22951,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle762",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -22978,9 +22980,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 710,
@@ -23257,6 +23257,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -23284,9 +23286,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1111,
@@ -23563,6 +23563,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -23590,9 +23592,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1400,
@@ -23879,6 +23879,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -23906,9 +23908,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 140,
@@ -24177,6 +24177,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -24204,9 +24206,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 180,
@@ -24475,6 +24475,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -24502,9 +24504,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 280,
@@ -24773,6 +24773,8 @@
         "tracerDistance": 0.1,
         "ammoSfx": "tracer_red",
         "casingSounds": "rifle556",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -24800,9 +24802,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1300,
@@ -25071,6 +25071,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -25098,9 +25100,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 1550,
@@ -25369,6 +25369,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -25396,9 +25398,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 2200,
@@ -25667,6 +25667,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -25694,9 +25696,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 3000,
@@ -25975,6 +25975,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -26002,9 +26004,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 3600,
@@ -26239,6 +26239,331 @@
         "casingMass": 16.5,
         "casingName": "5.45x39 мм 7Н39",
         "casingSounds": "rifle556"
+      }
+    },
+    {
+      "id": "eb27f2377188f66e1c819f2a",
+      "enabled": true,
+      "baseTpl": "5d6e67fba4b9361bc73bc779",
+      "name": "12/70 3 1/2 Inch Magnum TSS AP 00 Buckshot",
+      "shortName": "3.5 TSS",
+      "description": "The 12/70 3 1/2 Inch Magnum TSS AP 00 Buckshot was invented by Mechanic after seeing the success of the 2 3/4 inch version. He created it by taking two of the TSS 00 shells and putting the now 12 pellets into the shell of 3 1/2 inch magnum buckshot shell. The result is a Tungsten Alloy 12 pellet shotgun shell aimed at defeating soft body armor. While slightly slower than the standard shell, mainly due to weight and pressure reasons, its larger pellet count makes it frightening. Extremely rare, extremely expensive, extremely effective.",
+      "customModel": "",
+      "customUsePrefab": "",
+      "stats": {
+        "damage": 49,
+        "penetration": 24,
+        "armorDamage": 60,
+        "initialSpeed": 325,
+        "ammoAccr": 40,
+        "ammoRec": 325,
+        "stackMaxSize": 0,
+        "lightBleedingDelta": 0.25,
+        "heavyBleedingDelta": 0.3,
+        "durabilityBurnModificator": 6.5,
+        "ballisticCoeficient": 0.03,
+        "projectileCount": 12,
+        "buckshotBullets": 12,
+        "ricochetChance": 0.05,
+        "fragmentationChance": 0,
+        "penetrationDamageMod": 0.25,
+        "penetrationChanceObstacle": 0.3,
+        "penetrationPowerDiviation": 0.25,
+        "ammoLifeTimeSec": 5,
+        "bulletMassGram": 6.3,
+        "bulletDiameterMilimeters": 8.38,
+        "weight": 0.081,
+        "misfireChance": 0.02,
+        "malfMisfireChance": 0.224,
+        "malfFeedChance": 0.02,
+        "heatFactor": 5,
+        "staminaBurnPerDamage": 0.17,
+        "tracer": false,
+        "tracerColor": "red",
+        "tracerDistance": 0,
+        "ammoSfx": "standart",
+        "casingSounds": "shotgun_big",
+        "hasGrenaderComponent": false,
+        "fuzeArmTimeSec": 0,
+        "minExplosionDistance": 0,
+        "maxExplosionDistance": 0,
+        "fragmentsCount": 0,
+        "fragmentType": "5996f6d686f77467977ba6cc",
+        "explosionType": "",
+        "explosionStrength": 0,
+        "showHitEffectOnExplode": false,
+        "isLightAndSoundShot": false,
+        "lightAndSoundShotAngle": 0,
+        "lightAndSoundShotSelfContusionTime": 0,
+        "lightAndSoundShotSelfContusionStrength": 0,
+        "armorDistanceDistanceDamage": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "contusion": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1
+      },
+      "economy": {
+        "handbookPriceRoubles": 1500,
+        "fleaPriceRoubles": 5000,
+        "rarityPvE": "SuperRare",
+        "fleaBanned": true
+      },
+      "traders": [
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 4,
+          "priceRoubles": 1229,
+          "stockCount": 50,
+          "buyRestrictionMax": 50,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        }
+      ],
+      "crafting": {
+        "enabled": true,
+        "workbenchLevel": 3,
+        "craftTimeSeconds": 1000,
+        "outputCount": 100,
+        "requirements": [
+          {
+            "tpl": "660137d8481cc6907a0c5cda",
+            "count": 40
+          },
+          {
+            "tpl": "5d6e6806a4b936088465b17e",
+            "count": 100
+          },
+          {
+            "tpl": "5d6fc87386f77449db3db94e",
+            "count": 1
+          },
+          {
+            "tpl": "62a0a0bb621468534a797ad5",
+            "count": 1
+          },
+          {
+            "tpl": "5d40419286f774318526545f",
+            "count": 1
+          }
+        ]
+      },
+      "filters": {
+        "patchMagazines": [
+          "5a78832ec5856700155a6ca3",
+          "5a7882dcc5856700177af662",
+          "5a78830bc5856700137e4c90",
+          "5e87080c81c4ed43e83cefda",
+          "55d484b44bdc2d1d4e8b456d",
+          "55d485804bdc2d8c2f8b456b",
+          "56deee15d2720bee328b4567",
+          "5882163e24597758206fee8c",
+          "5882163824597757561aa922",
+          "5882163224597757561aa920",
+          "56deeefcd2720bc8328b4568",
+          "6076c87f232e5a31c233d50e",
+          "625ff2ccb8c587128c1a01dd",
+          "6259bdcabd28e4721447a2aa",
+          "625ff3046d721f05d93bf2ee",
+          "625ff31daaaa8c1130599f64",
+          "625ff2eb9f5537057932257d"
+        ],
+        "patchWeapons": [
+          "6259b864ebedf17603599e88",
+          "5e870397991fd70db46995c8",
+          "54491c4f4bdc2db1078b4568",
+          "5580223e4bdc2d1c128b457f",
+          "5a7828548dc32e5a9c28b516"
+        ]
+      },
+      "moddedFilterExclusions": {
+        "excludeMagazines": [],
+        "excludeWeapons": [
+          "68fc9d35a95c0e57110beeab",
+          "68fe896c2b85e5d74c05a5ae",
+          "68fe896c2b85e5d74c05a5af",
+          "669fca7f9ed4916116c76d5e",
+          "6840ebf5b8687ba34f8dfbca",
+          "69d9435106dc0abe0209b658",
+          "69de7d7e9d80cc5c037bd276",
+          "6761b213607f9a6f79017d23"
+        ]
+      },
+      "ammoBox": {
+        "id": "fe69ef07ba7fd21cbe49a091",
+        "enabled": false,
+        "baseTpl": "",
+        "count": 0,
+        "name": "",
+        "shortName": "",
+        "description": "",
+        "customModel": "",
+        "customUsePrefab": "",
+        "handbookPriceRoubles": 0,
+        "rarityPvE": "Rare",
+        "backgroundColor": "default",
+        "backgroundAlpha": 1,
+        "sellToTraders": false,
+        "traderPriceRoubles": 0
+      },
+      "ammoLoot": {
+        "enabled": false,
+        "containerIds": [],
+        "rarity": "Rare"
+      },
+      "ammoBoxLoot": {
+        "enabled": false,
+        "containerIds": [],
+        "rarity": "Rare"
+      },
+      "properties": {
+        "AmmoLifeTimeSec": 5,
+        "AmmoTooltipClass": "SoftTargets",
+        "AnimationVariantsNumber": 0,
+        "ArmorDamage": 26,
+        "ArmorDistanceDistanceDamage": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BackgroundColor": "yellow",
+        "BallisticCoeficient": 0.024,
+        "Blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BulletDiameterMilimeters": 6.5,
+        "BulletMassGram": 2.1,
+        "Caliber": "Caliber12g",
+        "CanRequireOnRagfair": false,
+        "CanSellOnRagfair": true,
+        "ConflictingItems": [],
+        "Contusion": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Damage": 35,
+        "Description": "12x70 Картечь",
+        "Deterioration": 1,
+        "DiscardLimit": -1,
+        "DiscardingBlock": false,
+        "DropSoundType": "None",
+        "DurabilityBurnModificator": 1,
+        "ExamineExperience": 10,
+        "ExamineTime": 1,
+        "ExaminedByDefault": true,
+        "ExplosionStrength": 0,
+        "ExplosionType": "",
+        "ExtraSizeDown": 0,
+        "ExtraSizeForceAdd": false,
+        "ExtraSizeLeft": 0,
+        "ExtraSizeRight": 0,
+        "ExtraSizeUp": 0,
+        "FlareTypes": [],
+        "FragmentType": "5996f6d686f77467977ba6cc",
+        "FragmentationChance": 0,
+        "FragmentsCount": 0,
+        "FuzeArmTimeSec": 0,
+        "HasGrenaderComponent": false,
+        "HeatFactor": 2.259,
+        "HeavyBleedingDelta": 0,
+        "Height": 1,
+        "HideEntrails": false,
+        "InitialSpeed": 430,
+        "InsuranceDisabled": false,
+        "IsAlwaysAvailableForInsurance": false,
+        "IsLightAndSoundShot": false,
+        "IsLockedafterEquip": false,
+        "IsSecretExitRequirement": false,
+        "IsSpecialSlotOnly": false,
+        "IsUnbuyable": false,
+        "IsUndiscardable": false,
+        "IsUngivable": false,
+        "IsUnremovable": false,
+        "IsUnsaleable": false,
+        "ItemSound": "ammo_shotgun",
+        "LeftHandItem": false,
+        "LightAndSoundShotAngle": 0,
+        "LightAndSoundShotSelfContusionStrength": 0,
+        "LightAndSoundShotSelfContusionTime": 0,
+        "LightBleedingDelta": 0,
+        "LootExperience": 0,
+        "MalfFeedChance": 0.01,
+        "MalfMisfireChance": 0.224,
+        "MaxExplosionDistance": 0,
+        "MaxFragmentsCount": 1,
+        "MergesWithChildren": false,
+        "MetascoreGroup": "Firepower",
+        "MinExplosionDistance": 0,
+        "MinFragmentsCount": 1,
+        "MisfireChance": 0.01,
+        "Name": "12x70 Картечь",
+        "NotShownInSlot": false,
+        "PenetrationChanceObstacle": 0.02,
+        "PenetrationDamageMod": 0,
+        "PenetrationPower": 3,
+        "PenetrationPowerDiviation": 1,
+        "Prefab": {
+          "path": "assets/content/items/ammo/patrons/patron_12x70.bundle",
+          "rcid": ""
+        },
+        "ProjectileCount": 9,
+        "QuestItem": false,
+        "QuestStashMaxCount": 0,
+        "RagFairCommissionModifier": 1,
+        "RarityPvE": "Not_exist",
+        "RemoveShellAfterFire": false,
+        "RepairCost": 0,
+        "RepairSpeed": 0,
+        "RicochetChance": 0,
+        "ShortName": "12x70",
+        "ShowBullet": false,
+        "ShowHitEffectOnExplode": false,
+        "SpeedRetardation": 0.00013,
+        "StackMaxRandom": 10,
+        "StackMaxSize": 20,
+        "StackMinRandom": 3,
+        "StackObjectsCount": 1,
+        "StaminaBurnPerDamage": 0.144,
+        "Tracer": false,
+        "TracerColor": "red",
+        "TracerDistance": 0,
+        "Unlootable": false,
+        "UnlootableFromSide": [],
+        "UnlootableFromSlot": "FirstPrimaryWeapon",
+        "UsePrefab": {
+          "path": "",
+          "rcid": ""
+        },
+        "Weight": 0.048,
+        "Width": 1,
+        "airDropTemplateId": "",
+        "ammoAccr": 15,
+        "ammoDist": 0,
+        "ammoHear": 0,
+        "ammoRec": 0,
+        "ammoSfx": "standart",
+        "ammoShiftChance": 0,
+        "ammoType": "buckshot",
+        "buckshotBullets": 9,
+        "casingEjectPower": 0,
+        "casingMass": 0,
+        "casingName": "12x70 Картечь",
+        "casingSounds": "shotgun_big"
       }
     }
   ],
@@ -26495,7 +26820,7 @@
       "traders": [
         {
           "enabled": true,
-          "traderId": "5935c25fb3acc3127c3d8cd9",
+          "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 4,
           "priceRoubles": 17399,
           "stockCount": 3,
@@ -27004,6 +27329,204 @@
         "Weight": 0.28,
         "Width": 1,
         "explDelay": 3,
+        "throwDamMax": 0
+      }
+    },
+    {
+      "id": "cc9adde8e836ce05b8cde5aa",
+      "enabled": true,
+      "baseTpl": "5710c24ad2720bc3458b45a3",
+      "name": "F-1 Impact Hand Grenade",
+      "shortName": "F1 Impact",
+      "description": "The F-1 Impact Hand Grenade was created by Prapor when some of his F-1 grenades failed to detonate from faulty fuses, and when some of his RGO grenades came to him with damages outer shells. Ever the businessman, he decided to try and combine the two. It worked surprisingly well. He added some extra gunpowder in the cavity as well, for reasons...\nThe result is an F-1 grenade with a shorter fuse and impact detonation. The explosion feels slightly more powerful too, but nobody was willing to test it fully. Prapor swears to it though.",
+      "stats": {
+        "minExplosionDistance": 3,
+        "maxExplosionDistance": 8,
+        "fragmentsCount": 95,
+        "fragmentType": "63b35f281745dd52341e5da7",
+        "explosionEffectType": "Grenade_new",
+        "armorDistanceDistanceDamage": {
+          "x": 1,
+          "y": 5,
+          "z": 30
+        },
+        "contusion": {
+          "x": 2,
+          "y": 5,
+          "z": 20
+        },
+        "blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "contusionDistance": 14,
+        "explDelay": 2.25,
+        "minTimeToContactExplode": 0.25,
+        "playFuzeSound": false,
+        "strength": 80,
+        "throwType": "frag_grenade",
+        "throwDamMax": 0,
+        "weight": 0.65,
+        "smokeColor": "",
+        "bodyColor": "",
+        "minFragmentDamage": 0,
+        "canPlantOnGround": false,
+        "smokeRadius": 0,
+        "smokeDuration": 0,
+        "smokeFillSize": 0,
+        "smokeSizeOverTime": [],
+        "smokeStartSpeed": [],
+        "overrideSmokeRadius": false,
+        "overrideSmokeDuration": false,
+        "overrideSmokeFillSize": false,
+        "overrideSmokeSizeOverTime": false,
+        "overrideSmokeStartSpeed": false,
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1
+      },
+      "economy": {
+        "handbookPriceRoubles": 26000,
+        "fleaPriceRoubles": 45000,
+        "rarityPvE": "SuperRare",
+        "fleaBanned": true
+      },
+      "traders": [
+        {
+          "enabled": true,
+          "traderId": "54cb50c76803fa8b248b4571",
+          "loyaltyLevel": 4,
+          "priceRoubles": 19119,
+          "stockCount": 3,
+          "buyRestrictionMax": 3,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        }
+      ],
+      "crafting": {
+        "enabled": true,
+        "workbenchLevel": 3,
+        "craftTimeSeconds": 500,
+        "outputCount": 2,
+        "requirements": [
+          {
+            "tpl": "5710c24ad2720bc3458b45a3",
+            "count": 2
+          },
+          {
+            "tpl": "618a431df1eb8e24b8741deb",
+            "count": 2
+          },
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          },
+          {
+            "tpl": "544fb5454bdc2df8738b456a",
+            "count": 1
+          }
+        ]
+      },
+      "loot": {
+        "enabled": true,
+        "containerIds": [
+          "5d07b91b86f7745a077a9432",
+          "5d6d2bb386f774785b07a77a",
+          "5909d36d86f774660f0bb900",
+          "67adf4eb110ba15da90c6413",
+          "6223351bb5d97a7b2c635ca7"
+        ],
+        "rarity": "SuperRare"
+      },
+      "properties": {
+        "AnimationVariantsNumber": 0,
+        "ArmorDistanceDistanceDamage": {
+          "x": 1,
+          "y": 4,
+          "z": 25
+        },
+        "BackgroundColor": "grey",
+        "Blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "CanBeHiddenDuringThrow": true,
+        "CanPlantOnGround": true,
+        "CanRequireOnRagfair": false,
+        "CanSellOnRagfair": true,
+        "ConflictingItems": [],
+        "Contusion": {
+          "x": 1.5,
+          "y": 4,
+          "z": 15
+        },
+        "ContusionDistance": 12,
+        "Description": "Ф-1, ручная противопехотная оборонительная граната. Предназначена для поражения живой силы в оборонительном бою. Из-за значительного радиуса разлёта осколков метать её можно только из-за укрытия",
+        "DiscardLimit": 20,
+        "DiscardingBlock": false,
+        "DropSoundType": "None",
+        "EmitTime": 0,
+        "ExamineExperience": 4,
+        "ExamineTime": 1,
+        "ExaminedByDefault": true,
+        "ExplDelay": 3,
+        "ExplosionEffectType": "Grenade_new",
+        "ExtraSizeDown": 0,
+        "ExtraSizeForceAdd": false,
+        "ExtraSizeLeft": 0,
+        "ExtraSizeRight": 0,
+        "ExtraSizeUp": 0,
+        "FragmentType": "63b35f281745dd52341e5da7",
+        "FragmentsCount": 90,
+        "Height": 1,
+        "HideEntrails": false,
+        "InsuranceDisabled": false,
+        "IsAlwaysAvailableForInsurance": false,
+        "IsLockedafterEquip": false,
+        "IsSecretExitRequirement": false,
+        "IsSpecialSlotOnly": false,
+        "IsUnbuyable": false,
+        "IsUndiscardable": false,
+        "IsUngivable": false,
+        "IsUnremovable": false,
+        "IsUnsaleable": false,
+        "ItemSound": "grenade",
+        "LeftHandItem": false,
+        "LootExperience": 5,
+        "MaxExplosionDistance": 7,
+        "MergesWithChildren": false,
+        "MetascoreGroup": "Firepower",
+        "MinExplosionDistance": 3,
+        "MinTimeToContactExplode": -1,
+        "Name": "Граната Ф-1",
+        "NotShownInSlot": false,
+        "PlayFuzeSound": true,
+        "Prefab": {
+          "path": "assets/content/weapons/f1/weapon_grenade_f1_container.bundle",
+          "rcid": ""
+        },
+        "QuestItem": false,
+        "QuestStashMaxCount": 0,
+        "RagFairCommissionModifier": 1,
+        "RarityPvE": "Common",
+        "RepairCost": 0,
+        "RepairSpeed": 0,
+        "ShortName": "Ф-1",
+        "StackMaxSize": 1,
+        "StackObjectsCount": 1,
+        "Strength": 80,
+        "ThrowType": "frag_grenade",
+        "Unlootable": false,
+        "UnlootableFromSide": [],
+        "UnlootableFromSlot": "FirstPrimaryWeapon",
+        "UsePrefab": {
+          "path": "",
+          "rcid": ""
+        },
+        "Weight": 0.6,
+        "Width": 1,
+        "explDelay": 3.5,
         "throwDamMax": 0
       }
     }
