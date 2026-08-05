@@ -610,7 +610,7 @@
       "stats": {
         "damage": 42,
         "penetration": 16,
-        "armorDamage": 45,
+        "armorDamage": 14,
         "initialSpeed": 425,
         "ammoAccr": 20,
         "ammoRec": 15,
@@ -1858,7 +1858,7 @@
       "stats": {
         "damage": 52,
         "penetration": 5,
-        "armorDamage": 35,
+        "armorDamage": 14,
         "initialSpeed": 393,
         "ammoAccr": 15,
         "ammoRec": 150,
@@ -2177,7 +2177,7 @@
       "stats": {
         "damage": 75,
         "penetration": 6,
-        "armorDamage": 40,
+        "armorDamage": 16,
         "initialSpeed": 404,
         "ammoAccr": 35,
         "ammoRec": 50,
@@ -2493,7 +2493,7 @@
       "stats": {
         "damage": 172,
         "penetration": 44,
-        "armorDamage": 85,
+        "armorDamage": 67,
         "initialSpeed": 427,
         "ammoAccr": 120,
         "ammoRec": 25,
@@ -2808,7 +2808,7 @@
       "stats": {
         "damage": 61,
         "penetration": 25,
-        "armorDamage": 65,
+        "armorDamage": 20,
         "initialSpeed": 372,
         "ammoAccr": 50,
         "ammoRec": 5,
@@ -3124,7 +3124,7 @@
       "stats": {
         "damage": 5,
         "penetration": 9,
-        "armorDamage": 20,
+        "armorDamage": 4,
         "initialSpeed": 457,
         "ammoAccr": -50,
         "ammoRec": -20,
@@ -3739,7 +3739,7 @@
       "stats": {
         "damage": 180,
         "penetration": 34,
-        "armorDamage": 75,
+        "armorDamage": 65,
         "initialSpeed": 425,
         "ammoAccr": 80,
         "ammoRec": 5,
@@ -3904,14 +3904,15 @@
           "67adf4b81c58bd68b2002fec",
           "6223351bb5d97a7b2c635ca7",
           "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea",
-          "6582e6d7b14c3f72eb071420"
+          "5d6d2b5486f774785c2ba8ea"
         ],
-        "rarity": "Rare"
+        "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d07b91b86f7745a077a9432"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -7616,7 +7617,7 @@
       "stats": {
         "damage": 18,
         "penetration": 6,
-        "armorDamage": 50,
+        "armorDamage": 5,
         "initialSpeed": 260,
         "ammoAccr": -10,
         "ammoRec": 75,
@@ -7896,7 +7897,7 @@
       "stats": {
         "damage": 4,
         "penetration": 2,
-        "armorDamage": 26,
+        "armorDamage": 3,
         "initialSpeed": 225,
         "ammoAccr": -75,
         "ammoRec": 5,
@@ -9614,7 +9615,7 @@
       "stats": {
         "damage": 19,
         "penetration": 3,
-        "armorDamage": 25,
+        "armorDamage": 5,
         "initialSpeed": 404,
         "ammoAccr": -25,
         "ammoRec": -20,
@@ -9926,7 +9927,7 @@
       "stats": {
         "damage": 33,
         "penetration": 4,
-        "armorDamage": 30,
+        "armorDamage": 9,
         "initialSpeed": 404,
         "ammoAccr": -10,
         "ammoRec": -10,
@@ -10234,7 +10235,7 @@
       "stats": {
         "damage": 6,
         "penetration": 2,
-        "armorDamage": 20,
+        "armorDamage": 3,
         "initialSpeed": 457,
         "ammoAccr": -100,
         "ammoRec": -30,
@@ -10542,7 +10543,7 @@
       "stats": {
         "damage": 61,
         "penetration": 5,
-        "armorDamage": 35,
+        "armorDamage": 14,
         "initialSpeed": 404,
         "ammoAccr": 20,
         "ammoRec": 25,
@@ -11486,7 +11487,7 @@
       "stats": {
         "damage": 50,
         "penetration": 8,
-        "armorDamage": 45,
+        "armorDamage": 18,
         "initialSpeed": 381,
         "ammoAccr": 25,
         "ammoRec": 40,
@@ -11798,7 +11799,7 @@
       "stats": {
         "damage": 3,
         "penetration": 1,
-        "armorDamage": 15,
+        "armorDamage": 2,
         "initialSpeed": 457,
         "ammoAccr": -150,
         "ammoRec": -50,
@@ -12110,7 +12111,7 @@
       "stats": {
         "damage": 110,
         "penetration": 7,
-        "armorDamage": 50,
+        "armorDamage": 24,
         "initialSpeed": 360,
         "ammoAccr": 50,
         "ammoRec": 125,
@@ -12434,7 +12435,7 @@
       "stats": {
         "damage": 28,
         "penetration": 36,
-        "armorDamage": 55,
+        "armorDamage": 22,
         "initialSpeed": 385,
         "ammoAccr": 100,
         "ammoRec": 25,
@@ -13977,8 +13978,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 40,
-        "penetration": 10,
-        "armorDamage": 50,
+        "penetration": 5,
+        "armorDamage": 11,
         "initialSpeed": 385,
         "ammoAccr": 20,
         "ammoRec": 250,
@@ -14001,7 +14002,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.3,
         "malfFeedChance": 0.02,
-        "heatFactor": 3.5,
+        "heatFactor": 4.5,
         "staminaBurnPerDamage": 0.12,
         "tracer": false,
         "tracerColor": "red",
@@ -14281,8 +14282,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 9,
-        "penetration": 11,
-        "armorDamage": 33,
+        "penetration": 9,
+        "armorDamage": 1,
         "initialSpeed": 472,
         "ammoAccr": -100,
         "ammoRec": 175,
@@ -14305,7 +14306,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.266,
         "malfFeedChance": 0.02,
-        "heatFactor": 3,
+        "heatFactor": 4,
         "staminaBurnPerDamage": 0.075,
         "tracer": false,
         "tracerColor": "red",
@@ -14586,7 +14587,7 @@
       "stats": {
         "damage": 321,
         "penetration": 28,
-        "armorDamage": 60,
+        "armorDamage": 55,
         "initialSpeed": 576,
         "ammoAccr": 150,
         "ammoRec": 350,
@@ -14609,7 +14610,7 @@
         "misfireChance": 0.02,
         "malfMisfireChance": 0.3,
         "malfFeedChance": 0.02,
-        "heatFactor": 4,
+        "heatFactor": 5,
         "staminaBurnPerDamage": 0.5,
         "tracer": false,
         "tracerColor": "red",
@@ -14913,7 +14914,7 @@
         "misfireChance": 0.02,
         "malfMisfireChance": 0.336,
         "malfFeedChance": 0.1,
-        "heatFactor": 4,
+        "heatFactor": 5,
         "staminaBurnPerDamage": 0.4,
         "tracer": false,
         "tracerColor": "red",
@@ -15217,7 +15218,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.21,
         "malfFeedChance": 0.01,
-        "heatFactor": 4,
+        "heatFactor": 5,
         "staminaBurnPerDamage": 0.3,
         "tracer": false,
         "tracerColor": "red",
@@ -19599,8 +19600,8 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 62,
-        "penetration": 12,
-        "armorDamage": 55,
+        "penetration": 6,
+        "armorDamage": 20,
         "initialSpeed": 381,
         "ammoAccr": 30,
         "ammoRec": 300,
@@ -19623,7 +19624,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.32,
         "malfFeedChance": 0.02,
-        "heatFactor": 3.5,
+        "heatFactor": 4.5,
         "staminaBurnPerDamage": 0.15,
         "tracer": false,
         "tracerColor": "red",
@@ -20782,7 +20783,7 @@
       "stats": {
         "damage": 42,
         "penetration": 33,
-        "armorDamage": 45,
+        "armorDamage": 30,
         "initialSpeed": 808,
         "ammoAccr": -20,
         "ammoRec": 15,
@@ -21105,7 +21106,7 @@
       "stats": {
         "damage": 16,
         "penetration": 11,
-        "armorDamage": 30,
+        "armorDamage": 10,
         "initialSpeed": 686,
         "ammoAccr": -50,
         "ammoRec": -15,
@@ -21403,7 +21404,7 @@
       "stats": {
         "damage": 21,
         "penetration": 13,
-        "armorDamage": 35,
+        "armorDamage": 15,
         "initialSpeed": 725,
         "ammoAccr": -50,
         "ammoRec": -12,
@@ -26253,7 +26254,7 @@
       "stats": {
         "damage": 49,
         "penetration": 24,
-        "armorDamage": 60,
+        "armorDamage": 15,
         "initialSpeed": 325,
         "ammoAccr": 40,
         "ammoRec": 325,
@@ -26276,7 +26277,7 @@
         "misfireChance": 0.02,
         "malfMisfireChance": 0.224,
         "malfFeedChance": 0.02,
-        "heatFactor": 4,
+        "heatFactor": 5,
         "staminaBurnPerDamage": 0.17,
         "tracer": false,
         "tracerColor": "red",
