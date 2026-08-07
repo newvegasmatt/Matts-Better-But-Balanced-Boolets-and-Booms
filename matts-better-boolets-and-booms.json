@@ -151,17 +151,18 @@
         "containerIds": [
           "5909d45286f77465a8136dc6",
           "67adf4b81c58bd68b2002fec",
-          "6223351bb5d97a7b2c635ca7",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea",
-          "578f87a3245977356274f2cb",
           "5909d5ef86f77467974efbd8"
         ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "6223351bb5d97a7b2c635ca7",
+          "6223349b3136504a544d1608",
+          "5d6d2b5486f774785c2ba8ea"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -445,19 +446,19 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "6223351bb5d97a7b2c635ca7",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea",
-          "5909d5ef86f77467974efbd8",
-          "578f87a3245977356274f2cb"
+          "5909d5ef86f77467974efbd8"
         ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "566966cd4bdc2d0c4c8b4578",
+          "5d6d2b5486f774785c2ba8ea",
+          "6223351bb5d97a7b2c635ca7"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -756,17 +757,17 @@
       },
       "ammoBox": {
         "id": "6c7c27eb9e41095625e007f9",
-        "enabled": false,
-        "baseTpl": "",
-        "count": 0,
-        "name": "",
-        "shortName": "",
-        "description": "",
+        "enabled": true,
+        "baseTpl": "6570243bbfc87b3a3409321f",
+        "count": 25,
+        "name": "Box of 12/70 Federal Steel 0 buckshot",
+        "shortName": "St Buck Box",
+        "description": "A Box of 12/70 Federal Steel 0 buckshot shells.",
         "customModel": "",
         "customUsePrefab": "",
         "handbookPriceRoubles": 0,
         "rarityPvE": "Rare",
-        "backgroundColor": "default",
+        "backgroundColor": "green",
         "backgroundAlpha": 1,
         "sellToTraders": false,
         "traderPriceRoubles": 0
@@ -774,21 +775,20 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
-          "6223351bb5d97a7b2c635ca7",
           "578f87ad245977356274f2cc",
           "5909d45286f77465a8136dc6",
           "67adf4b81c58bd68b2002fec",
-          "5909d5ef86f77467974efbd8",
           "5909e4b686f7747f5b744fa4",
-          "6582e6d7b14c3f72eb071420",
-          "5d6d2b5486f774785c2ba8ea"
+          "6582e6d7b14c3f72eb071420"
         ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "6223351bb5d97a7b2c635ca7",
+          "5c052cea86f7746b2101e8d8"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -1076,9 +1076,7 @@
         "enabled": true,
         "containerIds": [
           "6223351bb5d97a7b2c635ca7",
-          "5d6d2bb386f774785b07a77a",
           "5909e4b686f7747f5b744fa4",
-          "5d6d2b5486f774785c2ba8ea",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
           "5909d5ef86f77467974efbd8",
@@ -1088,11 +1086,15 @@
           "61aa1e6984ea0800645777f9",
           "6582e6bb0c3b9823fe6d1840"
         ],
-        "rarity": "Rare"
+        "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea",
+          "5d07b91b86f7745a077a9432"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -1391,17 +1393,17 @@
       },
       "ammoBox": {
         "id": "f7491133d3e1700429f42da7",
-        "enabled": false,
-        "baseTpl": "",
-        "count": 0,
-        "name": "",
-        "shortName": "",
-        "description": "",
+        "enabled": true,
+        "baseTpl": "64898838d5b4df6140000a20",
+        "count": 25,
+        "name": "Box of 12/70 AP-21 Fragmenting AP Slugs",
+        "shortName": "AP-21 Box",
+        "description": "A Box of 12/70 AP-21 Fragmenting AP Slugs.",
         "customModel": "",
         "customUsePrefab": "",
         "handbookPriceRoubles": 0,
         "rarityPvE": "Rare",
-        "backgroundColor": "default",
+        "backgroundColor": "blue",
         "backgroundAlpha": 1,
         "sellToTraders": false,
         "traderPriceRoubles": 0
@@ -1409,21 +1411,22 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "6223351bb5d97a7b2c635ca7",
           "67adf5752fc5ee84020a9940",
           "5909e4b686f7747f5b744fa4",
-          "5d6d2bb386f774785b07a77a",
           "67adf4b81c58bd68b2002fec",
-          "5909d45286f77465a8136dc6",
-          "5909d5ef86f77467974efbd8",
-          "5d6d2b5486f774785c2ba8ea",
-          "5937ef2b86f77408a47244b3"
+          "5909d45286f77465a8136dc6"
         ],
-        "rarity": "Rare"
+        "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea",
+          "6223351bb5d97a7b2c635ca7",
+          "66da1b49099cf6adcc07a36b",
+          "66da1b546916142b3b022777"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -1696,9 +1699,7 @@
         "containerIds": [
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
-          "5d6d2bb386f774785b07a77a",
           "6223351bb5d97a7b2c635ca7",
-          "5d6d2b5486f774785c2ba8ea",
           "5909d5ef86f77467974efbd8"
         ],
         "rarity": "Rare"
@@ -2009,23 +2010,25 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "67adf4b81c58bd68b2002fec",
-          "5909d45286f77465a8136dc6",
           "658420d8085fea07e674cdb6",
           "67adf5752fc5ee84020a9940",
           "5909e4b686f7747f5b744fa4",
-          "6223351bb5d97a7b2c635ca7",
-          "5d6d2bb386f774785b07a77a",
           "6582e6bb0c3b9823fe6d1840",
-          "5d6d2b5486f774785c2ba8ea",
           "6582e6d7b14c3f72eb071420"
         ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
-        "rarity": "Rare"
+        "enabled": true,
+        "containerIds": [
+          "6223351bb5d97a7b2c635ca7",
+          "6223349b3136504a544d1608",
+          "61a89e5445a2672acf66c877",
+          "622334fa3136504a544d160c",
+          "5909d45286f77465a8136dc6",
+          "67adf4b81c58bd68b2002fec"
+        ],
+        "rarity": "Common"
       },
       "properties": {
         "AmmoLifeTimeSec": 5,
@@ -2330,18 +2333,17 @@
         "containerIds": [
           "5909d45286f77465a8136dc6",
           "67adf4b81c58bd68b2002fec",
-          "5d6d2bb386f774785b07a77a",
           "5909e4b686f7747f5b744fa4",
-          "6223351bb5d97a7b2c635ca7",
-          "67614e3a6a90e4f10b0b140d",
-          "5d6d2b5486f774785c2ba8ea"
+          "67614e3a6a90e4f10b0b140d"
         ],
-        "rarity": "Common"
+        "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
-        "rarity": "Rare"
+        "enabled": true,
+        "containerIds": [
+          "6223351bb5d97a7b2c635ca7"
+        ],
+        "rarity": "Common"
       },
       "properties": {
         "AmmoLifeTimeSec": 5,
@@ -2647,15 +2649,17 @@
           "6223351bb5d97a7b2c635ca7",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
-          "5d6d2b5486f774785c2ba8ea",
-          "5909d5ef86f77467974efbd8",
-          "5d6d2bb386f774785b07a77a"
+          "5909d5ef86f77467974efbd8"
         ],
         "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea",
+          "5d07b91b86f7745a077a9432"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -2959,19 +2963,20 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
-          "6223351bb5d97a7b2c635ca7",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
           "5909d5ef86f77467974efbd8",
-          "5d6d2b5486f774785c2ba8ea",
           "5909d89086f77472591234a0"
         ],
         "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea",
+          "6223351bb5d97a7b2c635ca7"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -3282,8 +3287,6 @@
           "5909e4b686f7747f5b744fa4",
           "67adf5752fc5ee84020a9940",
           "658420d8085fea07e674cdb6",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
           "5909d5ef86f77467974efbd8",
@@ -3580,7 +3583,8 @@
           "5d6d2bb386f774785b07a77a",
           "6582e6d7b14c3f72eb071420",
           "6223351bb5d97a7b2c635ca7",
-          "5d6d2b5486f774785c2ba8ea"
+          "5d6d2b5486f774785c2ba8ea",
+          "5d07b91b86f7745a077a9432"
         ],
         "rarity": "SuperRare"
       },
@@ -4214,16 +4218,13 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
           "6223351bb5d97a7b2c635ca7",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
-          "5d6d2b5486f774785c2ba8ea",
           "67614e3a6a90e4f10b0b140d",
           "5909e4b686f7747f5b744fa4",
           "67adf5752fc5ee84020a9940",
           "6582e6bb0c3b9823fe6d1840",
-          "578f87a3245977356274f2cb",
           "6582e6d7b14c3f72eb071420",
           "5909d5ef86f77467974efbd8",
           "5909d76c86f77471e53d2adf",
@@ -4233,8 +4234,11 @@
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -4510,8 +4514,6 @@
         "containerIds": [
           "5909d45286f77465a8136dc6",
           "67adf4b81c58bd68b2002fec",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea",
           "61aa1e6984ea0800645777f9",
           "5909d89086f77472591234a0",
           "6223351bb5d97a7b2c635ca7",
@@ -4520,8 +4522,12 @@
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea",
+          "5d07b91b86f7745a077a9432"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -4805,15 +4811,16 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "6223351bb5d97a7b2c635ca7",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea"
+          "6223351bb5d97a7b2c635ca7"
         ],
         "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -5107,17 +5114,18 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
           "6223351bb5d97a7b2c635ca7",
-          "5d6d2b5486f774785c2ba8ea",
           "67614e3a6a90e4f10b0b140d",
           "6582e6d7b14c3f72eb071420"
         ],
         "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -5391,10 +5399,8 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
           "6223351bb5d97a7b2c635ca7",
           "5909e4b686f7747f5b744fa4",
-          "5d6d2b5486f774785c2ba8ea",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
           "5909d76c86f77471e53d2adf",
@@ -5403,8 +5409,10 @@
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -5678,11 +5686,6 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
-          "6223351bb5d97a7b2c635ca7",
-          "5d6d2b5486f774785c2ba8ea",
-          "67adf4b81c58bd68b2002fec",
-          "5909d45286f77465a8136dc6",
           "6582e6bb0c3b9823fe6d1840",
           "67614e3a6a90e4f10b0b140d",
           "6582e6d7b14c3f72eb071420"
@@ -5977,17 +5980,18 @@
           "6223351bb5d97a7b2c635ca7",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea",
-          "67614e3a6a90e4f10b0b140d",
           "5909d5ef86f77467974efbd8",
           "6582e6d7b14c3f72eb071420"
         ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea",
+          "5d07b91b86f7745a077a9432"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -6283,14 +6287,8 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5909e4b686f7747f5b744fa4",
-          "6223351bb5d97a7b2c635ca7",
-          "5909d45286f77465a8136dc6",
-          "67adf4b81c58bd68b2002fec",
           "67adf5752fc5ee84020a9940",
-          "658420d8085fea07e674cdb6",
-          "566966cd4bdc2d0c4c8b4578",
-          "6223349b3136504a544d1608"
+          "658420d8085fea07e674cdb6"
         ],
         "rarity": "Common"
       },
@@ -7171,18 +7169,18 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
-          "6223351bb5d97a7b2c635ca7",
-          "5d6d2b5486f774785c2ba8ea",
-          "6582e6d7b14c3f72eb071420",
-          "67614e3a6a90e4f10b0b140d"
+          "6223351bb5d97a7b2c635ca7"
         ],
         "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
-        "rarity": "Rare"
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea",
+          "5d07b91b86f7745a077a9432"
+        ],
+        "rarity": "SuperRare"
       },
       "properties": {
         "AmmoLifeTimeSec": 5,
@@ -7737,8 +7735,8 @@
         "containerIds": [
           "5909e4b686f7747f5b744fa4",
           "67adf5752fc5ee84020a9940",
-          "566966cd4bdc2d0c4c8b4578",
-          "6582e6bb0c3b9823fe6d1840"
+          "6582e6bb0c3b9823fe6d1840",
+          "6582e6d7b14c3f72eb071420"
         ],
         "rarity": "Rare"
       },
@@ -8017,7 +8015,6 @@
         "containerIds": [
           "67adf5752fc5ee84020a9940",
           "5909e4b686f7747f5b744fa4",
-          "566966cd4bdc2d0c4c8b4578",
           "6582e6bb0c3b9823fe6d1840"
         ],
         "rarity": "Rare"
@@ -8299,10 +8296,7 @@
         "enabled": true,
         "containerIds": [
           "5909e4b686f7747f5b744fa4",
-          "67adf5752fc5ee84020a9940",
-          "566966cd4bdc2d0c4c8b4578",
-          "67adf4b81c58bd68b2002fec",
-          "5909d45286f77465a8136dc6"
+          "67adf5752fc5ee84020a9940"
         ],
         "rarity": "Rare"
       },
@@ -8584,8 +8578,6 @@
         "containerIds": [
           "67adf5752fc5ee84020a9940",
           "5909e4b686f7747f5b744fa4",
-          "67adf4b81c58bd68b2002fec",
-          "5909d45286f77465a8136dc6",
           "6582e6bb0c3b9823fe6d1840"
         ],
         "rarity": "Common"
@@ -9162,9 +9154,7 @@
           "6223351bb5d97a7b2c635ca7",
           "67adf4b81c58bd68b2002fec",
           "5909d36d86f774660f0bb900",
-          "67adf4eb110ba15da90c6413",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea"
+          "67adf4eb110ba15da90c6413"
         ],
         "rarity": "Rare"
       },
@@ -9452,8 +9442,6 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea",
           "6223351bb5d97a7b2c635ca7",
           "67adf4eb110ba15da90c6413",
           "5909d36d86f774660f0bb900"
@@ -10701,8 +10689,11 @@
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5909d45286f77465a8136dc6",
+          "67adf4b81c58bd68b2002fec"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -11006,21 +10997,20 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "6582e6bb0c3b9823fe6d1840",
           "67adf4b81c58bd68b2002fec",
           "5909d45286f77465a8136dc6",
-          "61a89e5445a2672acf66c877",
-          "622334fa3136504a544d160c",
-          "658420d8085fea07e674cdb6",
-          "5909e4b686f7747f5b744fa4",
-          "67adf5752fc5ee84020a9940",
           "6582e6d7b14c3f72eb071420"
         ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "6223351bb5d97a7b2c635ca7",
+          "61a89e5445a2672acf66c877",
+          "622334fa3136504a544d160c",
+          "61a89e812cc17d60cc5f9879"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -11325,10 +11315,7 @@
         "enabled": true,
         "containerIds": [
           "5909d45286f77465a8136dc6",
-          "67adf4b81c58bd68b2002fec",
-          "6223351bb5d97a7b2c635ca7",
-          "6223349b3136504a544d1608",
-          "6582e6d7b14c3f72eb071420"
+          "67adf4b81c58bd68b2002fec"
         ],
         "rarity": "Rare"
       },
@@ -11639,14 +11626,16 @@
         "enabled": true,
         "containerIds": [
           "658420d8085fea07e674cdb6",
-          "5d6d2bb386f774785b07a77a",
-          "5d6d2b5486f774785c2ba8ea"
+          "6582e6d7b14c3f72eb071420"
         ],
         "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -11950,7 +11939,6 @@
       "ammoLoot": {
         "enabled": true,
         "containerIds": [
-          "6223349b3136504a544d1608",
           "5d6fd13186f77424ad2a8c69",
           "5c052cea86f7746b2101e8d8"
         ],
@@ -12281,7 +12269,8 @@
         "enabled": true,
         "containerIds": [
           "5d6d2bb386f774785b07a77a",
-          "67adf5752fc5ee84020a9940"
+          "67adf5752fc5ee84020a9940",
+          "5d6d2b5486f774785c2ba8ea"
         ],
         "rarity": "Rare"
       },
@@ -12590,12 +12579,15 @@
           "5d6d2b5486f774785c2ba8ea",
           "6223351bb5d97a7b2c635ca7"
         ],
-        "rarity": "SuperRare"
+        "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
-        "rarity": "Rare"
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea"
+        ],
+        "rarity": "SuperRare"
       },
       "properties": {
         "AmmoLifeTimeSec": 5,
@@ -13204,8 +13196,12 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5909e4b686f7747f5b744fa4",
+          "67adf5752fc5ee84020a9940",
+          "5909d45286f77465a8136dc6"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -13512,8 +13508,10 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "6582e6d7b14c3f72eb071420"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -14002,7 +14000,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.3,
         "malfFeedChance": 0.02,
-        "heatFactor": 4.5,
+        "heatFactor": 4.75,
         "staminaBurnPerDamage": 0.12,
         "tracer": false,
         "tracerColor": "red",
@@ -14124,8 +14122,11 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "6582e6d7b14c3f72eb071420",
+          "67adf4b81c58bd68b2002fec"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -14306,7 +14307,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.266,
         "malfFeedChance": 0.02,
-        "heatFactor": 4,
+        "heatFactor": 4.25,
         "staminaBurnPerDamage": 0.075,
         "tracer": false,
         "tracerColor": "red",
@@ -14610,7 +14611,7 @@
         "misfireChance": 0.02,
         "malfMisfireChance": 0.3,
         "malfFeedChance": 0.02,
-        "heatFactor": 5,
+        "heatFactor": 5.25,
         "staminaBurnPerDamage": 0.5,
         "tracer": false,
         "tracerColor": "red",
@@ -14898,7 +14899,7 @@
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.3,
         "heavyBleedingDelta": 0.5,
-        "durabilityBurnModificator": 4,
+        "durabilityBurnModificator": 3.5,
         "ballisticCoeficient": 0.65,
         "projectileCount": 1,
         "buckshotBullets": 1,
@@ -14914,7 +14915,7 @@
         "misfireChance": 0.02,
         "malfMisfireChance": 0.336,
         "malfFeedChance": 0.1,
-        "heatFactor": 5,
+        "heatFactor": 5.25,
         "staminaBurnPerDamage": 0.4,
         "tracer": false,
         "tracerColor": "red",
@@ -15036,8 +15037,11 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2b5486f774785c2ba8ea",
+          "5d6d2bb386f774785b07a77a"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -15218,7 +15222,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.21,
         "malfFeedChance": 0.01,
-        "heatFactor": 5,
+        "heatFactor": 5.27,
         "staminaBurnPerDamage": 0.3,
         "tracer": false,
         "tracerColor": "red",
@@ -15340,9 +15344,12 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
-        "rarity": "Rare"
+        "enabled": true,
+        "containerIds": [
+          "5d6d2b5486f774785c2ba8ea",
+          "5d6d2bb386f774785b07a77a"
+        ],
+        "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
         "enabled": false,
@@ -15670,7 +15677,8 @@
           "61a89e812cc17d60cc5f9879",
           "66da1b49099cf6adcc07a36b",
           "66da1b546916142b3b022777",
-          "67614e3a6a90e4f10b0b140d"
+          "67614e3a6a90e4f10b0b140d",
+          "5d07b91b86f7745a077a9432"
         ],
         "rarity": "SuperRare"
       },
@@ -15981,7 +15989,8 @@
           "6223349b3136504a544d1608",
           "66da1b49099cf6adcc07a36b",
           "66da1b546916142b3b022777",
-          "67614e3a6a90e4f10b0b140d"
+          "67614e3a6a90e4f10b0b140d",
+          "5d07b91b86f7745a077a9432"
         ],
         "rarity": "SuperRare"
       },
@@ -16268,8 +16277,11 @@
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5909d45286f77465a8136dc6",
+          "67adf4b81c58bd68b2002fec"
+        ],
         "rarity": "Rare"
       },
       "properties": {
@@ -18531,7 +18543,8 @@
         "containerIds": [
           "578f8782245977354405a1e3",
           "64d11702dd0cd96ab82c3280",
-          "66acff0a1d8e1083b303f5af"
+          "66acff0a1d8e1083b303f5af",
+          "5d07b91b86f7745a077a9432"
         ],
         "rarity": "SuperRare"
       },
@@ -18827,7 +18840,8 @@
         "containerIds": [
           "578f8782245977354405a1e3",
           "64d11702dd0cd96ab82c3280",
-          "66acff0a1d8e1083b303f5af"
+          "66acff0a1d8e1083b303f5af",
+          "5d07b91b86f7745a077a9432"
         ],
         "rarity": "SuperRare"
       },
@@ -19033,7 +19047,7 @@
         "lightAndSoundShotSelfContusionStrength": 0,
         "armorDistanceDistanceDamage": {
           "x": 0.1,
-          "y": 1.5,
+          "y": 0.5,
           "z": 1
         },
         "contusion": {
@@ -19150,8 +19164,10 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2bb386f774785b07a77a"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -19442,8 +19458,10 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "5d6d2b5486f774785c2ba8ea"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -19624,7 +19642,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.32,
         "malfFeedChance": 0.02,
-        "heatFactor": 4.5,
+        "heatFactor": 4.75,
         "staminaBurnPerDamage": 0.15,
         "tracer": false,
         "tracerColor": "red",
@@ -19737,8 +19755,11 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "6582e6d7b14c3f72eb071420",
+          "67adf4b81c58bd68b2002fec"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -20020,8 +20041,10 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "6582e6d7b14c3f72eb071420"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -20947,9 +20970,11 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
-        "rarity": "Rare"
+        "enabled": true,
+        "containerIds": [
+          "5d07b91b86f7745a077a9432"
+        ],
+        "rarity": "Common"
       },
       "ammoBoxLoot": {
         "enabled": false,
@@ -21845,8 +21870,10 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
+        "enabled": true,
+        "containerIds": [
+          "6582e6d7b14c3f72eb071420"
+        ],
         "rarity": "Rare"
       },
       "ammoBoxLoot": {
@@ -22084,11 +22111,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 1,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "64b7af734b75259c590fa895",
+            "count": 120
+          },
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -22390,11 +22426,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 1,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "64b7af5a8532cf95ee0a0dbd",
+            "count": 120
+          },
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -22696,11 +22741,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
+        "enabled": true,
         "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "5656d7c34bdc2d9d198b4587",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc78386f77449d825f9dc",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -23002,11 +23056,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
+        "enabled": true,
         "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "64b7af434b75259c590fa893",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc78386f77449d825f9dc",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -23308,11 +23371,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 3,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "59e0d99486f7744a32234762",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc87386f77449db3db94e",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -23624,11 +23696,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 3,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "601aa3d2b2bcb34913271e6d",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc87386f77449db3db94e",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -23930,11 +24011,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 1,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "56dff421d2720b5f5a8b4567",
+            "count": 120
+          },
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -24228,11 +24318,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 1,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "56dff0bed2720bb0668b4567",
+            "count": 120
+          },
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -24526,11 +24625,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 1,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "56dff3afd2720bba668b4567",
+            "count": 120
+          },
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -24824,11 +24932,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
+        "enabled": true,
         "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "56dff061d2720bb5668b4567",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc78386f77449d825f9dc",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -25122,11 +25239,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
+        "enabled": true,
         "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "61962b617c6c7b169525f168",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc78386f77449d825f9dc",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -25420,11 +25546,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 3,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "56dfef82d2720bbd668b4567",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc78386f77449d825f9dc",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -25728,11 +25863,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 3,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "56dff026d2720bb8668b4567",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc87386f77449db3db94e",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -26036,11 +26180,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
-        "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "enabled": true,
+        "workbenchLevel": 3,
+        "craftTimeSeconds": 60,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "5c0d5e4486f77478390952fe",
+            "count": 120
+          },
+          {
+            "tpl": "5d6fc87386f77449db3db94e",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -26261,7 +26414,7 @@
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.25,
         "heavyBleedingDelta": 0.3,
-        "durabilityBurnModificator": 5,
+        "durabilityBurnModificator": 6,
         "ballisticCoeficient": 0.03,
         "projectileCount": 12,
         "buckshotBullets": 12,
@@ -26420,9 +26573,13 @@
         "traderPriceRoubles": 0
       },
       "ammoLoot": {
-        "enabled": false,
-        "containerIds": [],
-        "rarity": "Rare"
+        "enabled": true,
+        "containerIds": [
+          "5d07b91b86f7745a077a9432",
+          "5d6d2b5486f774785c2ba8ea",
+          "5d6d2bb386f774785b07a77a"
+        ],
+        "rarity": "SuperRare"
       },
       "ammoBoxLoot": {
         "enabled": false,
@@ -26565,6 +26722,326 @@
         "casingMass": 0,
         "casingName": "12x70 Картечь",
         "casingSounds": "shotgun_big"
+      }
+    },
+    {
+      "id": "af0a2a108449b0b85383c139",
+      "enabled": true,
+      "baseTpl": "59e6906286f7746c9f75e847",
+      "name": "5.56x45mm HEI",
+      "shortName": "556 HEI",
+      "description": "The 5.56x45mm HEI cartridge is manufactured by Firequest and a few other small manufacturers. It is expensive, and hard to find. While its penetration is somewhat lacking compared to similarly priced ammo, the 3,000 degree High Energy Incendiary payload rapidly degrades armor. The intensity also causes confusion and a stun effect. ",
+      "customModel": "",
+      "customUsePrefab": "",
+      "stats": {
+        "damage": 50,
+        "penetration": 32,
+        "armorDamage": 83,
+        "initialSpeed": 930,
+        "ammoAccr": -3,
+        "ammoRec": 2,
+        "stackMaxSize": 0,
+        "lightBleedingDelta": 0.1,
+        "heavyBleedingDelta": 0,
+        "durabilityBurnModificator": 1.35,
+        "ballisticCoeficient": 0.269,
+        "projectileCount": 1,
+        "buckshotBullets": 0,
+        "ricochetChance": 0.15,
+        "fragmentationChance": 0.55,
+        "penetrationDamageMod": 0.25,
+        "penetrationChanceObstacle": 0.3,
+        "penetrationPowerDiviation": 1,
+        "ammoLifeTimeSec": 5,
+        "bulletMassGram": 4,
+        "bulletDiameterMilimeters": 5.7,
+        "weight": 0.012,
+        "misfireChance": 0.015,
+        "malfMisfireChance": 0.2,
+        "malfFeedChance": 0.12,
+        "heatFactor": 1.7,
+        "staminaBurnPerDamage": 0.19,
+        "tracer": false,
+        "tracerColor": "red",
+        "tracerDistance": 0.5,
+        "ammoSfx": "standart",
+        "casingSounds": "rifle556",
+        "hasGrenaderComponent": true,
+        "fuzeArmTimeSec": 0,
+        "minExplosionDistance": 0.1,
+        "maxExplosionDistance": 0.5,
+        "fragmentsCount": 0,
+        "fragmentType": "5996f6d686f77467977ba6cc",
+        "explosionType": "big_round_impact",
+        "explosionStrength": 1,
+        "showHitEffectOnExplode": true,
+        "isLightAndSoundShot": false,
+        "lightAndSoundShotAngle": 0,
+        "lightAndSoundShotSelfContusionTime": 0,
+        "lightAndSoundShotSelfContusionStrength": 0,
+        "armorDistanceDistanceDamage": {
+          "x": 0.1,
+          "y": 0.2,
+          "z": 0.4
+        },
+        "contusion": {
+          "x": 0.1,
+          "y": 0.2,
+          "z": 0.4
+        },
+        "blindness": {
+          "x": 0.4,
+          "y": 0.8,
+          "z": 1.5
+        },
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1
+      },
+      "economy": {
+        "handbookPriceRoubles": 800,
+        "fleaPriceRoubles": 2400,
+        "rarityPvE": "SuperRare",
+        "fleaBanned": true
+      },
+      "traders": [
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 3,
+          "priceRoubles": 619,
+          "stockCount": 60,
+          "buyRestrictionMax": 60,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        }
+      ],
+      "crafting": {
+        "enabled": false,
+        "workbenchLevel": 2,
+        "craftTimeSeconds": 10800,
+        "outputCount": 100,
+        "requirements": []
+      },
+      "filters": {
+        "patchMagazines": [
+          "6764139c44b3c96e7b0e2f7b",
+          "5ac66c5d5acfc4001718d314",
+          "6761765f1f08ed5e8800b7a6",
+          "55d4887d4bdc2d962f8b4570",
+          "5c6d42cb2e2216000e69d7d1",
+          "5c6d450c2e221600114c997d",
+          "5c05413a0db834001c390617",
+          "5aaa5e60e5b5b000140293d6",
+          "5448c1d04bdc2dff2f8b4569",
+          "5aaa5dfee5b5b000140293d3",
+          "5d1340b3d7ad1a0b52682ed7",
+          "55802d5f4bdc2dac148b458e",
+          "5d1340cad7ad1a0b0b249869",
+          "544a378f4bdc2d30388b4567",
+          "5d1340bdd7ad1a0e8d245aab",
+          "59c1383d86f774290a37e0ca",
+          "5c6592372e221600133e47d7",
+          "544a37c44bdc2d25388b4567",
+          "5c6d46132e221601da357d56",
+          "61840bedd92c473c77021635",
+          "61840d85568c120fdd2962a5",
+          "62307b7b10d2321fa8741921",
+          "5c0548ae0db834001966a3c2",
+          "630e1adbbd357927e4007c09",
+          "62e7c98b550c8218d602cbb4",
+          "630e295c984633f1fb0e7c30"
+        ],
+        "patchWeapons": [
+          "5c07c60e0db834002330051f",
+          "5447a9cd4bdc2dbd208b4567",
+          "5c488a752e221602b412af63",
+          "6184055050224f204c1da540",
+          "618428466ef05c2ce828f218",
+          "5bb2475ed4351e00853264e3",
+          "623063e994fc3f7b302a9696",
+          "5ac66cb05acfc40198510a10",
+          "5ac66d015acfc400180ae6e4",
+          "5d43021ca4b9362eab4b5e25",
+          "62e7c4fba689e8c9c50dfc38",
+          "63171672192e68c5460cebc5",
+          "6718817435e3cfd9550d2c27"
+        ]
+      },
+      "moddedFilterExclusions": {
+        "excludeMagazines": [],
+        "excludeWeapons": []
+      },
+      "ammoBox": {
+        "id": "4ff4913756b6696d377d027d",
+        "enabled": true,
+        "baseTpl": "657024ecc5d7d4cb4d07856d",
+        "count": 50,
+        "name": "Box of 5.56x45mm HEI",
+        "shortName": "556 HEI Box",
+        "description": "A Box of 5.56x45mm HEI rounds.",
+        "customModel": "",
+        "customUsePrefab": "",
+        "handbookPriceRoubles": 0,
+        "rarityPvE": "Rare",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
+        "sellToTraders": false,
+        "traderPriceRoubles": 0
+      },
+      "ammoLoot": {
+        "enabled": true,
+        "containerIds": [
+          "6582e6d7b14c3f72eb071420",
+          "5d6d2bb386f774785b07a77a",
+          "5d6d2b5486f774785c2ba8ea"
+        ],
+        "rarity": "SuperRare"
+      },
+      "ammoBoxLoot": {
+        "enabled": true,
+        "containerIds": [
+          "5d07b91b86f7745a077a9432",
+          "64d11702dd0cd96ab82c3280",
+          "66acff0a1d8e1083b303f5af"
+        ],
+        "rarity": "Rare"
+      },
+      "properties": {
+        "AmmoLifeTimeSec": 5,
+        "AmmoTooltipClass": "Universal",
+        "AnimationVariantsNumber": 0,
+        "ArmorDamage": 44,
+        "ArmorDistanceDistanceDamage": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BackgroundColor": "yellow",
+        "BallisticCoeficient": 0.269,
+        "Blindness": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "BulletDiameterMilimeters": 5.7,
+        "BulletMassGram": 4,
+        "Caliber": "Caliber556x45NATO",
+        "CanRequireOnRagfair": false,
+        "CanSellOnRagfair": true,
+        "ConflictingItems": [],
+        "Contusion": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Damage": 52,
+        "Description": "patron_556x45_M856A1",
+        "Deterioration": 1,
+        "DiscardLimit": -1,
+        "DiscardingBlock": false,
+        "DropSoundType": "None",
+        "DurabilityBurnModificator": 1.2,
+        "ExamineExperience": 10,
+        "ExamineTime": 1,
+        "ExaminedByDefault": true,
+        "ExplosionStrength": 0,
+        "ExplosionType": "",
+        "ExtraSizeDown": 0,
+        "ExtraSizeForceAdd": false,
+        "ExtraSizeLeft": 0,
+        "ExtraSizeRight": 0,
+        "ExtraSizeUp": 0,
+        "FlareTypes": [],
+        "FragmentType": "5996f6d686f77467977ba6cc",
+        "FragmentationChance": 0.428,
+        "FragmentsCount": 0,
+        "FuzeArmTimeSec": 0,
+        "HasGrenaderComponent": false,
+        "HeatFactor": 1.653,
+        "HeavyBleedingDelta": 0,
+        "Height": 1,
+        "HideEntrails": false,
+        "InitialSpeed": 940,
+        "InsuranceDisabled": false,
+        "IsAlwaysAvailableForInsurance": false,
+        "IsLightAndSoundShot": false,
+        "IsLockedafterEquip": false,
+        "IsSecretExitRequirement": false,
+        "IsSpecialSlotOnly": false,
+        "IsUnbuyable": false,
+        "IsUndiscardable": false,
+        "IsUngivable": false,
+        "IsUnremovable": false,
+        "IsUnsaleable": false,
+        "ItemSound": "ammo_singleround",
+        "LeftHandItem": false,
+        "LightAndSoundShotAngle": 0,
+        "LightAndSoundShotSelfContusionStrength": 0,
+        "LightAndSoundShotSelfContusionTime": 0,
+        "LightBleedingDelta": 0,
+        "LootExperience": 0,
+        "MalfFeedChance": 0.081,
+        "MalfMisfireChance": 0.1834,
+        "MaxExplosionDistance": 0,
+        "MaxFragmentsCount": 3,
+        "MergesWithChildren": false,
+        "MetascoreGroup": "Firepower",
+        "MinExplosionDistance": 0,
+        "MinFragmentsCount": 2,
+        "MisfireChance": 0.01,
+        "Name": "patron_556x45_M856A1",
+        "NotShownInSlot": false,
+        "PenetrationChanceObstacle": 0.55,
+        "PenetrationDamageMod": 0.14,
+        "PenetrationPower": 38,
+        "PenetrationPowerDiviation": 0.575,
+        "Prefab": {
+          "path": "assets/content/items/ammo/patrons/patron_556x45_m856a1.bundle",
+          "rcid": ""
+        },
+        "ProjectileCount": 1,
+        "QuestItem": false,
+        "QuestStashMaxCount": 0,
+        "RagFairCommissionModifier": 1,
+        "RarityPvE": "Superrare",
+        "RemoveShellAfterFire": false,
+        "RepairCost": 0,
+        "RepairSpeed": 0,
+        "RicochetChance": 0.38,
+        "ShortName": "patron_556x45_M856A1",
+        "ShowBullet": false,
+        "ShowHitEffectOnExplode": false,
+        "SpeedRetardation": 0.000023,
+        "StackMaxRandom": 60,
+        "StackMaxSize": 60,
+        "StackMinRandom": 20,
+        "StackObjectsCount": 1,
+        "StaminaBurnPerDamage": 0.144,
+        "Tracer": true,
+        "TracerColor": "red",
+        "TracerDistance": 0.5,
+        "Unlootable": false,
+        "UnlootableFromSide": [],
+        "UnlootableFromSlot": "FirstPrimaryWeapon",
+        "UsePrefab": {
+          "path": "",
+          "rcid": ""
+        },
+        "Weight": 0.012,
+        "Width": 1,
+        "airDropTemplateId": "",
+        "ammoAccr": -4,
+        "ammoDist": 0,
+        "ammoHear": 0,
+        "ammoRec": 4,
+        "ammoSfx": "standart",
+        "ammoShiftChance": 0,
+        "ammoType": "bullet",
+        "buckshotBullets": 0,
+        "casingEjectPower": 1,
+        "casingMass": 11.77,
+        "casingName": "5.56x45 мм M193 FMJ",
+        "casingSounds": "rifle556"
       }
     }
   ],
