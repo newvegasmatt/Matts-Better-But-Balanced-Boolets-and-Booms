@@ -22348,7 +22348,7 @@
         "penetration": 24,
         "armorDamage": 31,
         "initialSpeed": 737,
-        "ammoAccr": -20,
+        "ammoAccr": 20,
         "ammoRec": -22,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0,
@@ -22738,6 +22738,16 @@
           "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 2,
+          "priceRoubles": 789,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
         }
       ],
       "crafting": {
@@ -23051,6 +23061,16 @@
           "priceRoubles": 1409,
           "stockCount": 240,
           "buyRestrictionMax": 240,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 3,
+          "priceRoubles": 2019,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -23693,6 +23713,16 @@
           "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 4,
+          "priceRoubles": 4669,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
         }
       ],
       "crafting": {
@@ -24315,6 +24345,16 @@
           "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 1,
+          "priceRoubles": 329,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
         }
       ],
       "crafting": {
@@ -24620,6 +24660,16 @@
           "priceRoubles": 219,
           "stockCount": 240,
           "buyRestrictionMax": 240,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 2,
+          "priceRoubles": 519,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -25236,6 +25286,16 @@
           "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 3,
+          "priceRoubles": 2299,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
         }
       ],
       "crafting": {
@@ -25541,6 +25601,16 @@
           "priceRoubles": 1939,
           "stockCount": 240,
           "buyRestrictionMax": 240,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 3,
+          "priceRoubles": 3789,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -25858,6 +25928,16 @@
           "priceRoubles": 2499,
           "stockCount": 240,
           "buyRestrictionMax": 240,
+          "unlimitedStock": false,
+          "unlimitedBuyRestriction": false
+        },
+        {
+          "enabled": true,
+          "traderId": "5a7c2eca46aef81a7ca2145d",
+          "loyaltyLevel": 4,
+          "priceRoubles": 4369,
+          "stockCount": 120,
+          "buyRestrictionMax": 120,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -26766,6 +26846,8 @@
         "tracerDistance": 0.5,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": true,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0.1,
@@ -26793,9 +26875,7 @@
           "x": 0.4,
           "y": 0.8,
           "z": 1.5
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 800,
