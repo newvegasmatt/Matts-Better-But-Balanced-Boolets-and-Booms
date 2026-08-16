@@ -30341,6 +30341,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_small",
+        "backgroundColor": "red",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -30368,9 +30370,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "red",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 30,
@@ -30618,6 +30618,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_small",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -30645,9 +30647,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 55,
@@ -30895,6 +30895,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_small",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -30922,9 +30924,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 125,
@@ -31172,6 +31172,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_small",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -31199,9 +31201,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 170,
@@ -31454,6 +31454,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_small",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -31481,9 +31483,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 900,
@@ -31738,6 +31738,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_small",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -31765,9 +31767,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 850,
@@ -32022,6 +32022,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "red",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -32049,9 +32051,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "red",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 250,
@@ -32301,6 +32301,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -32328,9 +32330,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 90,
@@ -32580,6 +32580,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -32607,9 +32609,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 200,
@@ -32859,6 +32859,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "shotgun_big",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -32886,9 +32888,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 900,
@@ -33136,6 +33136,8 @@
         "tracerDistance": 0.5,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -33163,9 +33165,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 250,
@@ -33452,6 +33452,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -33479,9 +33481,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 350,
@@ -33767,6 +33767,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -33794,9 +33796,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 440,
@@ -34085,6 +34085,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "50cal",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -34112,9 +34114,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 20000,
@@ -34364,6 +34364,8 @@
         "tracerDistance": 0.1,
         "ammoSfx": "standart",
         "casingSounds": "127rifle",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -34391,9 +34393,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 25000,
@@ -34612,7 +34612,7 @@
         "armorDamage": 15,
         "initialSpeed": 716,
         "ammoAccr": -10,
-        "ammoRec": 33,
+        "ammoRec": 53,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.45,
         "heavyBleedingDelta": 0.4,
@@ -34639,6 +34639,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "red",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -34666,9 +34668,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "red",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 110,
@@ -34727,22 +34727,46 @@
         "patchWeapons": [
           "5c07c60e0db834002330051f",
           "5447a9cd4bdc2dbd208b4567",
-          "5c488a752e221602b412af63",
-          "6184055050224f204c1da540",
-          "618428466ef05c2ce828f218",
           "5bb2475ed4351e00853264e3",
-          "623063e994fc3f7b302a9696",
-          "5ac66cb05acfc40198510a10",
-          "5ac66d015acfc400180ae6e4",
-          "5d43021ca4b9362eab4b5e25",
-          "62e7c4fba689e8c9c50dfc38",
-          "63171672192e68c5460cebc5",
-          "6718817435e3cfd9550d2c27"
+          "5d43021ca4b9362eab4b5e25"
         ]
       },
       "moddedFilterExclusions": {
         "excludeMagazines": [],
-        "excludeWeapons": []
+        "excludeWeapons": [
+          "69f9ca041336df7edb6708ab",
+          "6671ebcdd32bd95eb398e92",
+          "682d460e951a926af552d764",
+          "682d3dd16900cb35564c8825",
+          "682d4820e48f3c573ec332b5",
+          "6902633fbfd8894b780f71b5",
+          "6905291a7241fdf3f504b306",
+          "6a1aadcb3bb20aa783f8f87d",
+          "69fbe2205f919280cea5c188",
+          "6962f22fddc6698c6309b620",
+          "6969867592a994a633084f70",
+          "699c3be62219dbbf5d075a04",
+          "6920b28eabc4f9d229cb7e49",
+          "6920a431c8f2ed5000c540a0",
+          "6a3bffbebc377285900b85cf",
+          "66ba249b102a9dd6040a6e7e",
+          "66ba26a6925f9921573224c9",
+          "66a544c956621d3364f6085e",
+          "66a545898022784400d6c836",
+          "66a47e98c486ec9d1af3a4da",
+          "68dec580d8cef922540a65c6",
+          "68e1040726e57f736103f027",
+          "66e718dc498d978477e0ba75",
+          "69066bef905ee9e06c462009",
+          "69161a1d649768162e8219ef",
+          "6906a1aeef59ca68d128e8b7",
+          "696ce75f73805e693401aba0",
+          "696fe2ebcf7469bf3805173f",
+          "6a4125b3ea8249d6b9575889",
+          "6999a28e24f9ef4d100d2ed2",
+          "6951d6f528342dc818053a6c",
+          "6952f4c9065baefc31060c87"
+        ]
       },
       "ammoBox": {
         "id": "431d60911e4f8a4c2d3c760f",
@@ -34924,7 +34948,7 @@
         "armorDamage": 25,
         "initialSpeed": 322,
         "ammoAccr": 0,
-        "ammoRec": 15,
+        "ammoRec": 35,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.2,
         "heavyBleedingDelta": 0.3,
@@ -34951,6 +34975,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -34978,9 +35004,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 115,
@@ -35039,22 +35063,46 @@
         "patchWeapons": [
           "5c07c60e0db834002330051f",
           "5447a9cd4bdc2dbd208b4567",
-          "5c488a752e221602b412af63",
-          "6184055050224f204c1da540",
-          "618428466ef05c2ce828f218",
           "5bb2475ed4351e00853264e3",
-          "623063e994fc3f7b302a9696",
-          "5ac66cb05acfc40198510a10",
-          "5ac66d015acfc400180ae6e4",
-          "5d43021ca4b9362eab4b5e25",
-          "62e7c4fba689e8c9c50dfc38",
-          "63171672192e68c5460cebc5",
-          "6718817435e3cfd9550d2c27"
+          "5d43021ca4b9362eab4b5e25"
         ]
       },
       "moddedFilterExclusions": {
         "excludeMagazines": [],
-        "excludeWeapons": []
+        "excludeWeapons": [
+          "69f9ca041336df7edb6708ab",
+          "6671ebcdd32bd95eb398e92",
+          "682d460e951a926af552d764",
+          "682d3dd16900cb35564c8825",
+          "682d4820e48f3c573ec332b5",
+          "6902633fbfd8894b780f71b5",
+          "6905291a7241fdf3f504b306",
+          "6a1aadcb3bb20aa783f8f87d",
+          "69fbe2205f919280cea5c188",
+          "6962f22fddc6698c6309b620",
+          "6969867592a994a633084f70",
+          "699c3be62219dbbf5d075a04",
+          "6920b28eabc4f9d229cb7e49",
+          "6920a431c8f2ed5000c540a0",
+          "6a3bffbebc377285900b85cf",
+          "66ba249b102a9dd6040a6e7e",
+          "66ba26a6925f9921573224c9",
+          "66a544c956621d3364f6085e",
+          "66a545898022784400d6c836",
+          "66a47e98c486ec9d1af3a4da",
+          "68dec580d8cef922540a65c6",
+          "68e1040726e57f736103f027",
+          "66e718dc498d978477e0ba75",
+          "69066bef905ee9e06c462009",
+          "69161a1d649768162e8219ef",
+          "6906a1aeef59ca68d128e8b7",
+          "696ce75f73805e693401aba0",
+          "696fe2ebcf7469bf3805173f",
+          "6a4125b3ea8249d6b9575889",
+          "6999a28e24f9ef4d100d2ed2",
+          "6951d6f528342dc818053a6c",
+          "6952f4c9065baefc31060c87"
+        ]
       },
       "ammoBox": {
         "id": "ddbf2533636dca09a31b972d",
@@ -35236,7 +35284,7 @@
         "armorDamage": 35,
         "initialSpeed": 686,
         "ammoAccr": 10,
-        "ammoRec": 35,
+        "ammoRec": 55,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.2,
         "heavyBleedingDelta": 0.2,
@@ -35263,6 +35311,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "orange",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -35290,9 +35340,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "orange",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 140,
@@ -35351,22 +35399,48 @@
         "patchWeapons": [
           "5c07c60e0db834002330051f",
           "5447a9cd4bdc2dbd208b4567",
-          "5c488a752e221602b412af63",
-          "6184055050224f204c1da540",
-          "618428466ef05c2ce828f218",
+          "5c07c60e0db834002330051f",
+          "5447a9cd4bdc2dbd208b4567",
           "5bb2475ed4351e00853264e3",
-          "623063e994fc3f7b302a9696",
-          "5ac66cb05acfc40198510a10",
-          "5ac66d015acfc400180ae6e4",
-          "5d43021ca4b9362eab4b5e25",
-          "62e7c4fba689e8c9c50dfc38",
-          "63171672192e68c5460cebc5",
-          "6718817435e3cfd9550d2c27"
+          "5d43021ca4b9362eab4b5e25"
         ]
       },
       "moddedFilterExclusions": {
         "excludeMagazines": [],
-        "excludeWeapons": []
+        "excludeWeapons": [
+          "69f9ca041336df7edb6708ab",
+          "6671ebcdd32bd95eb398e92",
+          "682d460e951a926af552d764",
+          "682d3dd16900cb35564c8825",
+          "682d4820e48f3c573ec332b5",
+          "6902633fbfd8894b780f71b5",
+          "6905291a7241fdf3f504b306",
+          "6a1aadcb3bb20aa783f8f87d",
+          "69fbe2205f919280cea5c188",
+          "6962f22fddc6698c6309b620",
+          "6969867592a994a633084f70",
+          "699c3be62219dbbf5d075a04",
+          "6920b28eabc4f9d229cb7e49",
+          "6920a431c8f2ed5000c540a0",
+          "6a3bffbebc377285900b85cf",
+          "66ba249b102a9dd6040a6e7e",
+          "66ba26a6925f9921573224c9",
+          "66a544c956621d3364f6085e",
+          "66a545898022784400d6c836",
+          "66a47e98c486ec9d1af3a4da",
+          "68dec580d8cef922540a65c6",
+          "68e1040726e57f736103f027",
+          "66e718dc498d978477e0ba75",
+          "69066bef905ee9e06c462009",
+          "69161a1d649768162e8219ef",
+          "6906a1aeef59ca68d128e8b7",
+          "696ce75f73805e693401aba0",
+          "696fe2ebcf7469bf3805173f",
+          "6a4125b3ea8249d6b9575889",
+          "6999a28e24f9ef4d100d2ed2",
+          "6951d6f528342dc818053a6c",
+          "6952f4c9065baefc31060c87"
+        ]
       },
       "ammoBox": {
         "id": "1e32a04b9b0d109f4b8ed11a",
@@ -35548,7 +35622,7 @@
         "armorDamage": 45,
         "initialSpeed": 686,
         "ammoAccr": 15,
-        "ammoRec": 30,
+        "ammoRec": 50,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.15,
         "heavyBleedingDelta": 0.15,
@@ -35575,6 +35649,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "yellow",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -35602,9 +35678,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "yellow",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 200,
@@ -35663,22 +35737,46 @@
         "patchWeapons": [
           "5c07c60e0db834002330051f",
           "5447a9cd4bdc2dbd208b4567",
-          "5c488a752e221602b412af63",
-          "6184055050224f204c1da540",
-          "618428466ef05c2ce828f218",
           "5bb2475ed4351e00853264e3",
-          "623063e994fc3f7b302a9696",
-          "5ac66cb05acfc40198510a10",
-          "5ac66d015acfc400180ae6e4",
-          "5d43021ca4b9362eab4b5e25",
-          "62e7c4fba689e8c9c50dfc38",
-          "63171672192e68c5460cebc5",
-          "6718817435e3cfd9550d2c27"
+          "5d43021ca4b9362eab4b5e25"
         ]
       },
       "moddedFilterExclusions": {
         "excludeMagazines": [],
-        "excludeWeapons": []
+        "excludeWeapons": [
+          "69f9ca041336df7edb6708ab",
+          "6671ebcdd32bd95eb398e92",
+          "682d460e951a926af552d764",
+          "682d3dd16900cb35564c8825",
+          "682d4820e48f3c573ec332b5",
+          "6902633fbfd8894b780f71b5",
+          "6905291a7241fdf3f504b306",
+          "6a1aadcb3bb20aa783f8f87d",
+          "69fbe2205f919280cea5c188",
+          "6962f22fddc6698c6309b620",
+          "6969867592a994a633084f70",
+          "699c3be62219dbbf5d075a04",
+          "6920b28eabc4f9d229cb7e49",
+          "6920a431c8f2ed5000c540a0",
+          "6a3bffbebc377285900b85cf",
+          "66ba249b102a9dd6040a6e7e",
+          "66ba26a6925f9921573224c9",
+          "66a544c956621d3364f6085e",
+          "66a545898022784400d6c836",
+          "66a47e98c486ec9d1af3a4da",
+          "68dec580d8cef922540a65c6",
+          "68e1040726e57f736103f027",
+          "66e718dc498d978477e0ba75",
+          "69066bef905ee9e06c462009",
+          "69161a1d649768162e8219ef",
+          "6906a1aeef59ca68d128e8b7",
+          "696ce75f73805e693401aba0",
+          "696fe2ebcf7469bf3805173f",
+          "6a4125b3ea8249d6b9575889",
+          "6999a28e24f9ef4d100d2ed2",
+          "6951d6f528342dc818053a6c",
+          "6952f4c9065baefc31060c87"
+        ]
       },
       "ammoBox": {
         "id": "b1ee1b99ef4c43f3abf0eb6a",
@@ -35862,7 +35960,7 @@
         "armorDamage": 50,
         "initialSpeed": 788,
         "ammoAccr": -5,
-        "ammoRec": 40,
+        "ammoRec": 60,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.1,
         "heavyBleedingDelta": 0.1,
@@ -35889,6 +35987,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -35916,9 +36016,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 330,
@@ -35977,22 +36075,46 @@
         "patchWeapons": [
           "5c07c60e0db834002330051f",
           "5447a9cd4bdc2dbd208b4567",
-          "5c488a752e221602b412af63",
-          "6184055050224f204c1da540",
-          "618428466ef05c2ce828f218",
           "5bb2475ed4351e00853264e3",
-          "623063e994fc3f7b302a9696",
-          "5ac66cb05acfc40198510a10",
-          "5ac66d015acfc400180ae6e4",
-          "5d43021ca4b9362eab4b5e25",
-          "62e7c4fba689e8c9c50dfc38",
-          "63171672192e68c5460cebc5",
-          "6718817435e3cfd9550d2c27"
+          "5d43021ca4b9362eab4b5e25"
         ]
       },
       "moddedFilterExclusions": {
         "excludeMagazines": [],
-        "excludeWeapons": []
+        "excludeWeapons": [
+          "69f9ca041336df7edb6708ab",
+          "6671ebcdd32bd95eb398e92",
+          "682d460e951a926af552d764",
+          "682d3dd16900cb35564c8825",
+          "682d4820e48f3c573ec332b5",
+          "6902633fbfd8894b780f71b5",
+          "6905291a7241fdf3f504b306",
+          "6a1aadcb3bb20aa783f8f87d",
+          "69fbe2205f919280cea5c188",
+          "6962f22fddc6698c6309b620",
+          "6969867592a994a633084f70",
+          "699c3be62219dbbf5d075a04",
+          "6920b28eabc4f9d229cb7e49",
+          "6920a431c8f2ed5000c540a0",
+          "6a3bffbebc377285900b85cf",
+          "66ba249b102a9dd6040a6e7e",
+          "66ba26a6925f9921573224c9",
+          "66a544c956621d3364f6085e",
+          "66a545898022784400d6c836",
+          "66a47e98c486ec9d1af3a4da",
+          "68dec580d8cef922540a65c6",
+          "68e1040726e57f736103f027",
+          "66e718dc498d978477e0ba75",
+          "69066bef905ee9e06c462009",
+          "69161a1d649768162e8219ef",
+          "6906a1aeef59ca68d128e8b7",
+          "696ce75f73805e693401aba0",
+          "696fe2ebcf7469bf3805173f",
+          "6a4125b3ea8249d6b9575889",
+          "6999a28e24f9ef4d100d2ed2",
+          "6951d6f528342dc818053a6c",
+          "6952f4c9065baefc31060c87"
+        ]
       },
       "ammoBox": {
         "id": "a87b3c5f7895ff3ca3b74942",
@@ -36179,7 +36301,7 @@
         "armorDamage": 55,
         "initialSpeed": 777,
         "ammoAccr": 0,
-        "ammoRec": 35,
+        "ammoRec": 55,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.25,
         "heavyBleedingDelta": 0.2,
@@ -36206,6 +36328,8 @@
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "blue",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -36233,9 +36357,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "blue",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 625,
@@ -36294,22 +36416,46 @@
         "patchWeapons": [
           "5c07c60e0db834002330051f",
           "5447a9cd4bdc2dbd208b4567",
-          "5c488a752e221602b412af63",
-          "6184055050224f204c1da540",
-          "618428466ef05c2ce828f218",
           "5bb2475ed4351e00853264e3",
-          "623063e994fc3f7b302a9696",
-          "5ac66cb05acfc40198510a10",
-          "5ac66d015acfc400180ae6e4",
-          "5d43021ca4b9362eab4b5e25",
-          "62e7c4fba689e8c9c50dfc38",
-          "63171672192e68c5460cebc5",
-          "6718817435e3cfd9550d2c27"
+          "5d43021ca4b9362eab4b5e25"
         ]
       },
       "moddedFilterExclusions": {
         "excludeMagazines": [],
-        "excludeWeapons": []
+        "excludeWeapons": [
+          "69f9ca041336df7edb6708ab",
+          "6671ebcdd32bd95eb398e92",
+          "682d460e951a926af552d764",
+          "682d3dd16900cb35564c8825",
+          "682d4820e48f3c573ec332b5",
+          "6902633fbfd8894b780f71b5",
+          "6905291a7241fdf3f504b306",
+          "6a1aadcb3bb20aa783f8f87d",
+          "69fbe2205f919280cea5c188",
+          "6962f22fddc6698c6309b620",
+          "6969867592a994a633084f70",
+          "699c3be62219dbbf5d075a04",
+          "6920b28eabc4f9d229cb7e49",
+          "6920a431c8f2ed5000c540a0",
+          "6a3bffbebc377285900b85cf",
+          "66ba249b102a9dd6040a6e7e",
+          "66ba26a6925f9921573224c9",
+          "66a544c956621d3364f6085e",
+          "66a545898022784400d6c836",
+          "66a47e98c486ec9d1af3a4da",
+          "68dec580d8cef922540a65c6",
+          "68e1040726e57f736103f027",
+          "66e718dc498d978477e0ba75",
+          "69066bef905ee9e06c462009",
+          "69161a1d649768162e8219ef",
+          "6906a1aeef59ca68d128e8b7",
+          "696ce75f73805e693401aba0",
+          "696fe2ebcf7469bf3805173f",
+          "6a4125b3ea8249d6b9575889",
+          "6999a28e24f9ef4d100d2ed2",
+          "6951d6f528342dc818053a6c",
+          "6952f4c9065baefc31060c87"
+        ]
       },
       "ammoBox": {
         "id": "a376af1e1eb8e49d4a4cede3",
