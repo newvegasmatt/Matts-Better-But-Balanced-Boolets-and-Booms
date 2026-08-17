@@ -397,9 +397,22 @@
       "crafting": {
         "enabled": true,
         "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "craftTimeSeconds": 300,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "5737201124597760fc4431f1",
+            "count": 100
+          },
+          {
+            "tpl": "590c5a7286f7747884343aea",
+            "count": 1
+          },
+          {
+            "tpl": "544fb5454bdc2df8738b456a",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -20887,11 +20900,20 @@
         }
       ],
       "crafting": {
-        "enabled": false,
+        "enabled": true,
         "workbenchLevel": 2,
-        "craftTimeSeconds": 10800,
+        "craftTimeSeconds": 300,
         "outputCount": 100,
-        "requirements": []
+        "requirements": [
+          {
+            "tpl": "5e023e53d4353e3302577c4c",
+            "count": 100
+          },
+          {
+            "tpl": "544fb5454bdc2df8738b456a",
+            "count": 1
+          }
+        ]
       },
       "filters": {
         "patchMagazines": [
@@ -34612,16 +34634,16 @@
         "armorDamage": 15,
         "initialSpeed": 716,
         "ammoAccr": -10,
-        "ammoRec": 53,
+        "ammoRec": 58,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.45,
         "heavyBleedingDelta": 0.4,
-        "durabilityBurnModificator": 2,
+        "durabilityBurnModificator": 1.75,
         "ballisticCoeficient": 0.179,
         "projectileCount": 1,
         "buckshotBullets": 0,
         "ricochetChance": 0.05,
-        "fragmentationChance": 0.75,
+        "fragmentationChance": 0.4,
         "penetrationDamageMod": 0.1,
         "penetrationChanceObstacle": 0.1,
         "penetrationPowerDiviation": 1,
@@ -34632,7 +34654,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.194,
         "malfFeedChance": 0.05,
-        "heatFactor": 2.5,
+        "heatFactor": 2,
         "staminaBurnPerDamage": 0.22,
         "tracer": false,
         "tracerColor": "red",
@@ -34681,11 +34703,11 @@
           "enabled": true,
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 1,
-          "priceRoubles": 99,
+          "priceRoubles": 179,
           "stockCount": 300,
           "buyRestrictionMax": 300,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         }
       ],
       "crafting": {
@@ -34948,11 +34970,11 @@
         "armorDamage": 25,
         "initialSpeed": 322,
         "ammoAccr": 0,
-        "ammoRec": 35,
+        "ammoRec": 40,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.2,
         "heavyBleedingDelta": 0.3,
-        "durabilityBurnModificator": 1.5,
+        "durabilityBurnModificator": 1.25,
         "ballisticCoeficient": 0.221,
         "projectileCount": 1,
         "buckshotBullets": 0,
@@ -34968,7 +34990,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.194,
         "malfFeedChance": 0.05,
-        "heatFactor": 1.5,
+        "heatFactor": 1.25,
         "staminaBurnPerDamage": 0.19,
         "tracer": false,
         "tracerColor": "red",
@@ -35017,11 +35039,11 @@
           "enabled": true,
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 1,
-          "priceRoubles": 109,
-          "stockCount": 240,
-          "buyRestrictionMax": 240,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "priceRoubles": 239,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         }
       ],
       "crafting": {
@@ -35284,7 +35306,7 @@
         "armorDamage": 35,
         "initialSpeed": 686,
         "ammoAccr": 10,
-        "ammoRec": 55,
+        "ammoRec": 60,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.2,
         "heavyBleedingDelta": 0.2,
@@ -35304,7 +35326,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.195,
         "malfFeedChance": 0.05,
-        "heatFactor": 2.5,
+        "heatFactor": 2,
         "staminaBurnPerDamage": 0.15,
         "tracer": false,
         "tracerColor": "red",
@@ -35353,11 +35375,11 @@
           "enabled": true,
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 2,
-          "priceRoubles": 119,
-          "stockCount": 240,
-          "buyRestrictionMax": 240,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "priceRoubles": 259,
+          "stockCount": 1200,
+          "buyRestrictionMax": 1200,
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         }
       ],
       "crafting": {
@@ -35618,15 +35640,15 @@
       "customUsePrefab": "",
       "stats": {
         "damage": 76,
-        "penetration": 24,
+        "penetration": 26,
         "armorDamage": 45,
         "initialSpeed": 686,
         "ammoAccr": 15,
-        "ammoRec": 50,
+        "ammoRec": 55,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.15,
         "heavyBleedingDelta": 0.15,
-        "durabilityBurnModificator": 2,
+        "durabilityBurnModificator": 1.75,
         "ballisticCoeficient": 0.183,
         "projectileCount": 1,
         "buckshotBullets": 0,
@@ -35642,7 +35664,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.194,
         "malfFeedChance": 0.05,
-        "heatFactor": 2.3,
+        "heatFactor": 1.8,
         "staminaBurnPerDamage": 0.144,
         "tracer": false,
         "tracerColor": "red",
@@ -35691,11 +35713,11 @@
           "enabled": true,
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 2,
-          "priceRoubles": 189,
+          "priceRoubles": 339,
           "stockCount": 240,
           "buyRestrictionMax": 240,
-          "unlimitedStock": false,
-          "unlimitedBuyRestriction": false
+          "unlimitedStock": true,
+          "unlimitedBuyRestriction": true
         }
       ],
       "crafting": {
@@ -35960,11 +35982,11 @@
         "armorDamage": 50,
         "initialSpeed": 788,
         "ammoAccr": -5,
-        "ammoRec": 60,
+        "ammoRec": 65,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.1,
         "heavyBleedingDelta": 0.1,
-        "durabilityBurnModificator": 2.3,
+        "durabilityBurnModificator": 2.05,
         "ballisticCoeficient": 0.15,
         "projectileCount": 1,
         "buckshotBullets": 0,
@@ -35980,7 +36002,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.205,
         "malfFeedChance": 0.05,
-        "heatFactor": 2.7,
+        "heatFactor": 2.2,
         "staminaBurnPerDamage": 0.16,
         "tracer": false,
         "tracerColor": "red",
@@ -36029,9 +36051,9 @@
           "enabled": true,
           "traderId": "5c0647fdd443bc2504c2d371",
           "loyaltyLevel": 3,
-          "priceRoubles": 309,
-          "stockCount": 200,
-          "buyRestrictionMax": 200,
+          "priceRoubles": 409,
+          "stockCount": 600,
+          "buyRestrictionMax": 600,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -36301,11 +36323,11 @@
         "armorDamage": 55,
         "initialSpeed": 777,
         "ammoAccr": 0,
-        "ammoRec": 55,
+        "ammoRec": 60,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.25,
         "heavyBleedingDelta": 0.2,
-        "durabilityBurnModificator": 2.6,
+        "durabilityBurnModificator": 2.3,
         "ballisticCoeficient": 0.185,
         "projectileCount": 1,
         "buckshotBullets": 0,
@@ -36321,7 +36343,7 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.214,
         "malfFeedChance": 0.06,
-        "heatFactor": 2.9,
+        "heatFactor": 2.4,
         "staminaBurnPerDamage": 0.1584,
         "tracer": false,
         "tracerColor": "red",
@@ -36371,8 +36393,8 @@
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 3,
           "priceRoubles": 609,
-          "stockCount": 120,
-          "buyRestrictionMax": 120,
+          "stockCount": 240,
+          "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -36662,13 +36684,15 @@
         "misfireChance": 0.01,
         "malfMisfireChance": 0.2234,
         "malfFeedChance": 0.081,
-        "heatFactor": 2.1,
+        "heatFactor": 1.9,
         "staminaBurnPerDamage": 0.154,
         "tracer": true,
         "tracerColor": "red",
         "tracerDistance": 0.5,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -36696,9 +36720,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 700,
@@ -36712,8 +36734,8 @@
           "traderId": "54cb50c76803fa8b248b4571",
           "loyaltyLevel": 3,
           "priceRoubles": 669,
-          "stockCount": 120,
-          "buyRestrictionMax": 120,
+          "stockCount": 240,
+          "buyRestrictionMax": 240,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -36994,11 +37016,11 @@
         "armorDamage": 54,
         "initialSpeed": 590,
         "ammoAccr": 0,
-        "ammoRec": 64,
+        "ammoRec": 69,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.15,
         "heavyBleedingDelta": 0.15,
-        "durabilityBurnModificator": 2.4,
+        "durabilityBurnModificator": 2.1,
         "ballisticCoeficient": 0.1,
         "projectileCount": 1,
         "buckshotBullets": 0,
@@ -37014,13 +37036,15 @@
         "misfireChance": 0.02,
         "malfMisfireChance": 0.215,
         "malfFeedChance": 0.07,
-        "heatFactor": 2.8,
+        "heatFactor": 2.4,
         "staminaBurnPerDamage": 0.164,
         "tracer": false,
         "tracerColor": "red",
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "green",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -37048,9 +37072,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "green",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 900,
@@ -37064,8 +37086,8 @@
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 3,
           "priceRoubles": 889,
-          "stockCount": 120,
-          "buyRestrictionMax": 120,
+          "stockCount": 200,
+          "buyRestrictionMax": 200,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
         }
@@ -37346,11 +37368,11 @@
         "armorDamage": 67,
         "initialSpeed": 580,
         "ammoAccr": -10,
-        "ammoRec": 67,
+        "ammoRec": 72,
         "stackMaxSize": 0,
         "lightBleedingDelta": 0.2,
         "heavyBleedingDelta": 0.15,
-        "durabilityBurnModificator": 2.7,
+        "durabilityBurnModificator": 2.4,
         "ballisticCoeficient": 0.1,
         "projectileCount": 1,
         "buckshotBullets": 0,
@@ -37366,13 +37388,15 @@
         "misfireChance": 0.02,
         "malfMisfireChance": 0.2234,
         "malfFeedChance": 0.097,
-        "heatFactor": 9,
+        "heatFactor": 2.75,
         "staminaBurnPerDamage": 0.184,
         "tracer": false,
         "tracerColor": "red",
         "tracerDistance": 0,
         "ammoSfx": "standart",
         "casingSounds": "rifle556",
+        "backgroundColor": "violet",
+        "backgroundAlpha": 1,
         "hasGrenaderComponent": false,
         "fuzeArmTimeSec": 0,
         "minExplosionDistance": 0,
@@ -37400,9 +37424,7 @@
           "x": 0,
           "y": 0,
           "z": 0
-        },
-        "backgroundColor": "violet",
-        "backgroundAlpha": 1
+        }
       },
       "economy": {
         "handbookPriceRoubles": 2250,
@@ -37416,7 +37438,7 @@
           "traderId": "5a7c2eca46aef81a7ca2145d",
           "loyaltyLevel": 4,
           "priceRoubles": 2099,
-          "stockCount": 100,
+          "stockCount": 120,
           "buyRestrictionMax": 100,
           "unlimitedStock": false,
           "unlimitedBuyRestriction": false
